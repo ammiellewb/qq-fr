@@ -1,0 +1,379 @@
+english,french
+Unable to fetch tires details!,Impossible d'obtenir les détails des pneus !
+Something went wrong! Contact Admin,Quelque chose n'a pas fonctionné ! Contacter l'administrateur
+Winter Tires,Pneus d'hiver
+Tire Category,Catégorie de pneus
+Brand Name,Nom de la marque
+Manufacturer,Fabricant
+Load Rating,Capacité de charge
+Image,Image
+Discontinued,Abandonné
+Tire Size,Tire Size
+Speed Rating,Vitesse de rotation
+Run Flat,Course à plat
+Success,Succès
+Not able to download file. Contact admin,Impossible de télécharger le fichier. Contacter l'administrateur
+Successfullly assigned!,Attribution réussie !
+Unable to save,Impossible de sauvegarder
+Distributors,Distributeurs
+The requested resource was not found.,La ressource demandée n'a pas été trouvée.
+Unable to fetch distributors details!,Impossible d'obtenir les coordonnées des distributeurs !
+Downloading in Progress,Téléchargement en cours
+Download Template,Télécharger le modèle
+Master Price Book,Livre des prix de référence
+This Price Book represents your current program prices. When a booking program is set to live your price book upload will be locked.,"Ce livre des prix représente les prix actuels de votre programme. Lorsqu'un programme de réservation est mis en ligne, le téléchargement de votre liste de prix est verrouillé."
+Confirm Delete,Confirmer Supprimer
+Download List,Télécharger la liste
+Active Packages,Paquets actifs
+Unable to fetch package details!,Impossible de récupérer les détails du paquet !
+Are you sure you want to delete this Package? This will delete this added package from the current Program booked orders.,Êtes-vous sûr de vouloir supprimer ce paquet ? Cela supprimera le forfait ajouté des commandes enregistrées dans le programme actuel.
+Package deleted successfully!,Paquet supprimé avec succès !
+Single Package,Paquet unique
+Delete Package?,Supprimer le paquet ?
+Something went wrong. Contact admin!,Un problème s'est produit. Contactez l'administrateur !
+Update Settings,Mise à jour des paramètres
+Successfully updated settings!,Mise à jour des paramètres réussie !
+Download,Télécharger
+Download Current Status Report,Télécharger le rapport sur la situation actuelle
+Download Distributor Report,Télécharger le rapport sur les distributeurs
+Invalid Key. Please provide the correct one!,Clé invalide. Veuillez fournir la bonne !
+Enter key to download Status Report,Touche Entrée pour télécharger le rapport d'état
+Please verify Captcha,Veuillez vérifier Captcha
+Password,Mot de passe
+Forgot Password?,Mot de passe oublié ?
+Flag,Drapeau
+guest,invité
+Welcome to QQBooker,Bienvenue à QQBooker
+Sign In,S'inscrire
+Enter Email,Entrer dans l'email
+submit,soumettre
+Distributor,Distributeur
+QTY,QTÉ
+quantity,quantité
+Delivery,Livraison
+cost,coût
+Type,Type
+Size,Taille
+Distributor Name,Nom du distributeur
+color,couleur
+Tires,Tires
+Manage,Gérer
+Accessories,Accessoires
+Offset,Décalage
+Eligibility,Éligibilité
+Yes,Oui
+Load,Chargement
+order,commande
+Phone Number,Numéro de téléphone
+Style,Style
+Details,Détails
+No,Non
+Speed,Vitesse
+Rank,Rang
+Packages,Emballages
+Pattern,Modèle
+My Profile,Mon profil
+Payments,Paiements
+My Data,Mes données
+My Users,Mes utilisateurs
+Reports,Rapports
+Display Preferences,Préférences d'affichage
+DTC Administration,Administration du DTC
+Bookings,Réservations
+Boutique,Boutique
+Dealerships,Concessionnaires
+Users,Utilisateurs
+Sensors,Capteurs
+Programs,Les programmes
+Home,Accueil
+Analytics,Analyse
+Upload Partially Successful,Chargement partiellement réussi
+Validation failed,Échec de la validation
+Upload List,Liste de téléchargement
+start,commencer
+Cancel,Annuler
+Upload Packages List,Télécharger la liste des colis
+Uploaded Successfully,Téléchargé avec succès
+Missing Items,Articles manquants
+Close,Fermer
+No missing items found.,Aucun élément manquant n'a été trouvé.
+Part Number,Numéro de pièce
+Upload Sensors List,Télécharger la liste des capteurs
+Edit Sensor,Edit Sensor
+Updated Sensor!,Capteur mis à jour !
+Add Part Number,Ajouter un numéro de pièce
+Please fill out the required fields.,Veuillez remplir les champs obligatoires.
+Update,Mise à jour
+Created Sensor!,Capteur créé !
+Edit Part Number,Modifier le numéro de pièce
+Add,Ajouter
+Required Field,Champ obligatoire
+Save,Économiser
+Manufacturers,Fabricants
+Assign Tire Manufacturer,Attribuer un fabricant de pneus
+Copy Record,Copie de l'enregistrement
+Edit Package Details,Modifier les détails du paquet
+Delete Record,Supprimer l'enregistrement
+File Uploaded Successfully,Fichier téléchargé avec succès
+Upload an Excel file:,Télécharger un fichier Excel :
+Upload,Télécharger
+Unable to upload File,Impossible de télécharger le fichier
+Change Log:,Journal des modifications :
+Activate TPMS Bonus,Activer le bonus TPMS
+TPMS Bonus,Bonus TPMS
+Booking Offers,Offres de réservation
+Delete Image,Supprimer l'image
+Delete Logo,Supprimer le logo
+No file chosen,Pas de fichier choisi
+Choose File,Choisir un fichier
+Select which OE Tire brands to include in all programs. You can also manage these per program when creating a new one.,Sélectionnez les marques de pneus d'origine à inclure dans tous les programmes. Vous pouvez également gérer ces marques par programme lors de la création d'un nouveau programme.
+Enter brand name,Saisir le nom de la marque
+Add Brand Name,Ajouter le nom de la marque
+OE Tire Brand,Marque du pneu OE
+Display,Affichage
+Dealer Notification Messages,Messages de notification du concessionnaire
+Type Home Screen Message,Type Message de l'écran d'accueil
+Type Ribbon Message,Type de ruban Message
+Home Screen Message,Message sur l'écran d'accueil
+Ribbon Message,Message du ruban
+Logo,Logo
+OEM NAME,NOM OEM
+OEM NAME (QQ),OEM NAME (QQ)
+Address,Adresse
+Unable to fetch OEMs details!,Impossible de récupérer les détails des OEM !
+Upload Logo,Télécharger le logo
+Edit OE,Editer OE
+Update OEM!,Mise à jour de l'OEM !
+Logo is required,Le logo est obligatoire
+Add OE,Ajouter OE
+OE,OE
+Edit OEM,Modifier l'équipementier
+Unable to fetch details!,Impossible d'obtenir les détails !
+Closed,Fermé
+Report not found. Contact Admin,Rapport non trouvé. Contact Admin
+Live,En direct
+Export Reports,Exporter des rapports
+Draft,Projet
+Status,Statut
+Loose Total,En vrac Total
+Dealer Name,Nom du dealer
+TPMS Selected,TPMS Sélectionné
+Current $,Courant $
+"Booking started, below target","Début des réservations, inférieur à l'objectif"
+Total %,Total %
+Booked Current,Réservé Courant
+TPMS Earned,TPMS gagné
+Previous Booked,Précédent Réservé
+Past $,Passé $
+Submission Status,Statut de la soumission
+Booking not yet started,La réservation n'a pas encore commencé
+Target met,Cible avec
+Something went wrong while updating.,Un problème s'est produit lors de la mise à jour.
+Successfully updated submission status!,Mise à jour réussie de l'état de la soumission !
+Update failed,Échec de la mise à jour
+Create Program,Créer un programme
+Edit Program,Edit Program
+Save Draft,Sauvegarder le projet
+Updated Successfully,Mise à jour réussie
+Delete Program,Supprimer un programme
+Not able to delete. Please contact Admin.,Impossible de supprimer. Veuillez contacter l'administrateur.
+Required Field,Champ obligatoire
+Record deleted successully,Enregistrement supprimé avec succès
+Launch,Lancement
+Create A New Program,Créer un nouveau programme
+Created Successfully,Créé avec succès
+Please fill out the required fields to Save.,Veuillez remplir les champs requis pour enregistrer votre demande.
+Not able Save details. Contact Admin,Impossible de sauvegarder les détails. Contact Admin
+Last Updated:,Dernière mise à jour :
+Warning:,Avertissement :
+– File Uploaded,- Fichier téléchargé
+you will be unable to change pricing once program is live.,vous ne pourrez pas modifier les prix une fois que le programme sera en ligne.
+Accessories Last Updated:,Accessoires Dernière mise à jour :
+Only applies to winter programs.,S'applique uniquement aux programmes d'hiver.
+Select what season this will be to allow for comparative analytics.,Sélectionnez la saison à laquelle il s'agira de procéder à des analyses comparatives.
+End date is required.,La date de fin est obligatoire.
+Start Date *,Date de début *
+Black Out Dates Packages,Forfaits Black Out Dates
+Start date is required.,La date de début est requise.
+End Date *,Date de fin *
+Booking Type,Type de réservation
+Spring,Printemps
+If the program start date is in the future your program will be set to draft until it goes live making changes easy.,"Si la date de début du programme se situe dans le futur, votre programme sera mis à l'état de projet jusqu'à ce qu'il soit mis en ligne, ce qui facilitera les modifications."
+Program name is required.,Le nom du programme est obligatoire.
+Program Name*,Nom du programme
+Select a date,Sélectionnez une date
+Unable to fetch OE admins details!,Impossible de récupérer les détails des administrateurs de l'OE !
+Admin Users,Utilisateurs administratifs
+Active,Actif
+Last Login,Dernier login
+Full Name,Nom complet
+Admin User,Utilisateur Admin
+Regional Manager,Directeur régional
+Passwords do not match,Les mots de passe ne correspondent pas
+Add Admin User,Ajouter un utilisateur Admin
+Edit Admin User,Edit Admin Utilisateur
+Updated OE Admin User!,Mise à jour de l'utilisateur Admin OE !
+Confirm Password,Confirmer le mot de passe
+Unable to update! Fill out the required fields,Impossible de mettre à jour ! Remplir les champs obligatoires
+If you change the Passsword it will override the existing password for the user.,"Si vous modifiez le mot de passe, il remplacera le mot de passe existant pour l'utilisateur."
+Password,Mot de passe
+toggle password visibility,activer la visibilité du mot de passe
+The Dealership Email is required.,L'adresse électronique du concessionnaire est obligatoire.
+The dealership name is required.,Le nom du concessionnaire est obligatoire.
+The Dealership Address is required.,L'adresse du concessionnaire est obligatoire.
+Show Password Fields,Afficher les champs du mot de passe
+This Dealer is also an active QQuote user. Link their accounts.,Ce concessionnaire est également un utilisateur actif de QQuote. Lier leurs comptes.
+The Dealership Phone is required.,Le téléphone du concessionnaire est nécessaire.
+The Dealer Code is required.,Le code du concessionnaire est requis.
+Main Contact Email,Courriel du contact principal
+Confirm Password,Confirmer le mot de passe
+Dealer Booking Tool Login Credentials,Identifiants de connexion à l'outil de réservation pour les concessionnaires
+The User Name is required.,Le nom d'utilisateur est obligatoire.
+Does this dealer need access to any other accounts to create and submit bookings?,Ce concessionnaire a-t-il besoin d'accéder à d'autres comptes pour créer et soumettre des réservations ?
+Dealership Name (OEM),Nom du concessionnaire (OEM)
+The User Email is required.,L'adresse électronique de l'utilisateur est obligatoire.
+Successfullly updated!,Mise à jour réussie !
+No results,Pas de résultats
+Delete Dealer?,Supprimer le concessionnaire ?
+Delete,Supprimer
+Are you sure you want to delete this Dealer?,Êtes-vous sûr de vouloir supprimer ce concessionnaire ?
+Delete User,Supprimer l'utilisateur
+Are you sure you want to delete this User?,Êtes-vous sûr de vouloir supprimer cet utilisateur ?
+Delete User?,Supprimer l'utilisateur ?
+Unable to fetch dealerships details!,Impossible d'obtenir les coordonnées des concessionnaires !
+Added Dealership!,Ajout d'un concessionnaire !
+Upload Logo,Télécharger le logo
+Unable to add Dealership!,Impossible d'ajouter un concessionnaire !
+Add Dealership,Ajouter un concessionnaire
+Dealership Name,Nom du concessionnaire
+Import Dealers,Négociants en importations
+Upload Placeholder,Télécharger un espace réservé
+Upload Distributor List,Télécharger la liste des distributeurs
+Booking Has Been Closed!,Les réservations sont closes !
+Booking Submitted,Réservation soumise
+Select an available booking program and dealership above to get started.,Sélectionnez un programme de réservation et un concessionnaire ci-dessus pour commencer.
+Global Search,Recherche globale
+Upload a Past Order,Télécharger une commande antérieure
+Details Saved Successfully!,Détails sauvegardés avec succès !
+TPMS has been overassigned. Reassign it before submitting the booking.,Le système TPMS a été attribué de manière excessive. Réaffectez-le avant de soumettre la réservation.
+TPMS is underassigned. Assign remaining TPMS before submitting the booking.,Le système TPMS n'est pas attribué. Attribuez les TPMS restants avant de soumettre la réservation.
+Submit Booking,Soumettre une réservation
+Unable to save details!,Impossible d'enregistrer les détails !
+Details Saved Successfully! Please fill out the empty fields,Détails enregistrés avec succès ! Veuillez remplir les champs vides
+Warning,Avertissement
+"Once submitted, you will NOT be able to make changes.","Une fois le formulaire soumis, vous ne pourrez PAS le modifier."
+Submit Booking?,Soumettre la réservation ?
+Dealership *,Concessionnaire *
+Select Dealership,Sélectionner un concessionnaire
+Click To Select Dealership,Cliquez pour sélectionner le concessionnaire
+Booking Program *,Programme de réservation *
+Click To Load Program,Cliquer pour charger le programme
+Open,Ouvrir
+Select Booking Program,Sélectionner le programme de réservation
+You will still have the ability to make changes while program booking window is open.,Vous aurez toujours la possibilité d'apporter des modifications pendant que la fenêtre de réservation du programme est ouverte.
+Save Changes,Enregistrer les modifications
+Save Booking?,Sauvegarder la réservation ?
+Note: This will completely override previously added Tires!,Note : Ceci annulera complètement les pneus ajoutés précédemment !
+Upload Past Order,Télécharger une commande antérieure
+Error! Target not uploaded for this Dealership,Erreur ! La cible n'a pas été téléchargée pour ce concessionnaire
+Uploaded successfully with missing Items.,Téléchargé avec succès avec les éléments manquants.
+Missing Items (Upload Successfully: Review missing items for details.),Éléments manquants (Chargement réussi : vérifiez les éléments manquants pour plus de détails).
+Missing Info,Informations manquantes
+Click to Download Order,Cliquez pour télécharger la commande
+Login as Dealer,Se connecter en tant que revendeur
+Escape,S'évader
+Landing Banner,Bannière d'atterrissage
+Dealer Logo,Logo du revendeur
+Sync Booker Data,Synchroniser les données du booker
+Logout,Déconnexion
+Reset Password,Réinitialiser le mot de passe
+Target updated successfully,Mise à jour réussie de la cible
+Set Target,Fixer un objectif
+Unable to update target!,Impossible de mettre à jour la cible !
+Dealer Target,Cible du dealer
+Unable to update target. Contact Admin,Impossible de mettre à jour la cible. Contacter l'administrateur
+Program selection is required.,La sélection du programme est requise.
+Set Dealer Target,Définir l'objectif du concessionnaire
+Reset,Réinitialisation
+Unable to update password!,Impossible de mettre à jour le mot de passe !
+Unable to update password. Contact Admin,Impossible de mettre à jour le mot de passe. Contacter l'administrateur
+Password updated successfully,Mot de passe mis à jour avec succès
+Please select the delivery date you wish to have the tires delivered.,Veuillez sélectionner la date à laquelle vous souhaitez que les pneus soient livrés.
+Please select distributor you wish to order from.,Veuillez sélectionner le distributeur auprès duquel vous souhaitez passer commande.
+Please enter number of TIRE UNITS you wish to order.,Veuillez indiquer le nombre d'unités de pneus que vous souhaitez commander.
+Add Wheels to include in your booking.,Ajoutez les roues à votre réservation.
+Add Package Sets to include in your booking.,Ajoutez des ensembles de forfaits à inclure dans votre réservation.
+Add Tires to include in your booking.,Ajoutez les pneus à votre réservation.
+Please select atleast one wheel!,Veuillez sélectionner au moins une roue !
+Select at least one additional wheel to add to your booking.,Sélectionnez au moins une roue supplémentaire à ajouter à votre réservation.
+Unable to fetch wheels details!,Impossible d'obtenir les détails des roues !
+Unable to fetch packages details!,Impossible de récupérer les détails des paquets !
+Please select atleast one package!,Veuillez sélectionner au moins un paquet !
+Please select the delivery date you wish to have the set delivered.,Veuillez sélectionner la date de livraison souhaitée.
+Please enter number of PACKAGE SETS you wish to order.,Veuillez indiquer le nombre d'ensembles de paquets que vous souhaitez commander.
+Please fill out all mandatory fields in red.,Veuillez remplir tous les champs obligatoires en rouge.
+The selected qty. of TPMS is greater than the qty. earned. Update your TPMS selections to match the qty. of sensors earned.,La quantité sélectionnée de capteurs TPMS est supérieure à la quantité gagnée. Mettez à jour vos sélections TPMS pour qu'elles correspondent à la quantité de capteurs gagnés.
+Total number of TPMS selected must match the total number of TPMS earned.,Le nombre total de TPMS sélectionnés doit correspondre au nombre total de TPMS gagnés.
+"Before you can proceed, please upload a Price Book file. This is the first step to setting up your programs and viewing tires, wheels, and other items.","Avant de pouvoir continuer, veuillez télécharger un fichier du livre des prix. Il s'agit de la première étape pour configurer vos programmes et visualiser les pneus, les roues et d'autres articles."
+You are about to delete this item from your booking order list. Item and quantity will be cleared. You can always add it back using the “Add” button.,"Vous êtes sur le point de supprimer cet article de votre liste de commandes. L'article et la quantité seront effacés. Vous pouvez toujours l'ajouter à nouveau en utilisant le bouton ""Ajouter""."
+Record deleted successfully!,Enregistrement supprimé avec succès !
+Failed to send password reset link.,Le lien de réinitialisation du mot de passe n'a pas été envoyé.
+Failed to send password reset link. Contact Admin,Le lien de réinitialisation du mot de passe n'a pas été envoyé. Contacter l'administrateur
+Forgot password,Mot de passe oublié
+Lost your password? Please enter your email address. You will receive a link to create a new password via email.,Vous avez perdu votre mot de passe ? Veuillez saisir votre adresse électronique. Vous recevrez un lien pour créer un nouveau mot de passe par courrier électronique.
+Remember your password?,Vous vous souvenez de votre mot de passe ?
+Password reset link sent. Check your spam folder if you don't see it in the inbox.,Lien de réinitialisation du mot de passe envoyé. Vérifiez votre dossier spam si vous ne le voyez pas dans la boîte de réception.
+Check your spam folder if you don't see it in the inbox.,Vérifiez votre dossier spam si vous ne le voyez pas dans la boîte de réception.
+Login,Connexion
+Net Price is required.,Le prix net est requis.
+Description *,Description *
+Tire *,Tire *
+Alias *,Alias * Alias * Alias * Alias * Alias * Alias * Alias * Alias * Alias
+Net $ *,Net $ *
+Kit Id is required.,Le kit Id est nécessaire.
+Kit ID *,Kit ID *
+TPMS *,TPMS *
+Wheel *,Roue *
+Package,Paquet
+Rows per page,Rows per page
+Tire Pressure,Tire Pressure
+TPMS Earned:,TPMS gagné :
+Booking Net Sub Total:,Booking Net Sub Total :
+Select,Sélectionner
+expand row,développer la ligne
+No records found,Aucun enregistrement n'a été trouvé
+Cell,Cellule
+See Details,Voir les détails
+Footer,Pied de page
+Filter,Filtre
+Header,En-tête
+Confirm New Password,Confirmer le nouveau mot de passe
+New Password,Nouveau mot de passe
+Or,Ou
+Password reset successfully,Réinitialisation du mot de passe réussie
+Resend Reset Link,Lien de réinitialisation
+Add Tires to List,Ajouter les pneus à la liste
+Please select atleast one tire!,Veuillez sélectionner au moins un pneu !
+Select at least one additional tire to add to your booking.,Sélectionnez au moins un pneu supplémentaire à ajouter à votre réservation.
+Enter any custom notes here...,Saisissez ici des notes personnalisées...
+Special Instructions or Delivery Notes,Instructions spéciales ou notes de livraison
+OK,OK
+Delete?,Supprimer ?
+Not able to download Template. Contact Admin,Impossible de télécharger le modèle. Contact Admin
+Error in BroadcastChannel setup:,Erreur dans la configuration du canal de diffusion :
+Failed to update assigned TPMS:,Échec de la mise à jour du système TPMS attribué :
+Failed to update data,Échec de la mise à jour des données
+Invalid item index:,L'index de l'article n'est pas valide :
+No data returned,Pas de données renvoyées
+Update failed:,La mise à jour a échoué :
+Invalid columnId or item not found:,ColumnId non valide ou élément non trouvé :
+Something went wrong,Quelque chose n'a pas fonctionné
+Error updating OEM settings,Erreur de mise à jour des paramètres OEM
+idle,oisif
+decimal,décimal
+day,jour
+Booking closes in days (),Clôture des réservations dans les jours ()
+Booking closes today (),Les réservations se terminent aujourd'hui ()
+days,jours
+Booking closes in (),Les réservations sont closes en ()
+"EEEE MMMM d, yyyy","EEEE MMMM d, yyyy"

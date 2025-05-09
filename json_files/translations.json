@@ -1,43 +1,375 @@
 [
     {
+        "english": "Unable to fetch tires details!",
+        "french": "Impossible d'obtenir les détails des pneus !"
+    },
+    {
+        "english": "Something went wrong! Contact Admin",
+        "french": "Quelque chose n'a pas fonctionné ! Contacter l'administrateur"
+    },
+    {
+        "english": "Winter Tires",
+        "french": "Pneus d'hiver"
+    },
+    {
+        "english": "Tire Category",
+        "french": "Catégorie de pneus"
+    },
+    {
+        "english": "Brand Name",
+        "french": "Nom de la marque"
+    },
+    {
+        "english": "Manufacturer",
+        "french": "Fabricant"
+    },
+    {
+        "english": "Load Rating",
+        "french": "Capacité de charge"
+    },
+    {
+        "english": "Image",
+        "french": "Image"
+    },
+    {
+        "english": "Discontinued",
+        "french": "Abandonné"
+    },
+    {
+        "english": "Tire Size",
+        "french": "Tire Size"
+    },
+    {
+        "english": "Speed Rating",
+        "french": "Vitesse de rotation"
+    },
+    {
+        "english": "Run Flat",
+        "french": "Course à plat"
+    },
+    {
         "english": "Success",
         "french": "Succès"
     },
     {
-        "english": "start",
-        "french": "commencer"
+        "english": "Not able to download file. Contact admin",
+        "french": "Impossible de télécharger le fichier. Contacter l'administrateur"
     },
     {
-        "english": "Validation failed",
-        "french": "Échec de la validation"
+        "english": "Successfullly assigned!",
+        "french": "Attribution réussie !"
     },
     {
-        "english": "length",
-        "french": "longueur"
+        "english": "Unable to save",
+        "french": "Impossible de sauvegarder"
+    },
+    {
+        "english": "Distributors",
+        "french": "Distributeurs"
+    },
+    {
+        "english": "The requested resource was not found.",
+        "french": "La ressource demandée n'a pas été trouvée."
+    },
+    {
+        "english": "Unable to fetch distributors details!",
+        "french": "Impossible d'obtenir les coordonnées des distributeurs !"
+    },
+    {
+        "english": "Downloading in Progress",
+        "french": "Téléchargement en cours"
+    },
+    {
+        "english": "Download Template",
+        "french": "Télécharger le modèle"
+    },
+    {
+        "english": "Master Price Book",
+        "french": "Livre des prix de référence"
+    },
+    {
+        "english": "This Price Book represents your current program prices. When a booking program is set to live your price book upload will be locked.",
+        "french": "Ce livre des prix représente les prix actuels de votre programme. Lorsqu'un programme de réservation est mis en ligne, le téléchargement de votre liste de prix est verrouillé."
+    },
+    {
+        "english": "Confirm Delete",
+        "french": "Confirmer Supprimer"
+    },
+    {
+        "english": "Download List",
+        "french": "Télécharger la liste"
+    },
+    {
+        "english": "Active Packages",
+        "french": "Paquets actifs"
+    },
+    {
+        "english": "Unable to fetch package details!",
+        "french": "Impossible de récupérer les détails du paquet !"
+    },
+    {
+        "english": "Are you sure you want to delete this Package? This will delete this added package from the current Program booked orders.",
+        "french": "Êtes-vous sûr de vouloir supprimer ce paquet ? Cela supprimera le forfait ajouté des commandes enregistrées dans le programme actuel."
+    },
+    {
+        "english": "Package deleted successfully!",
+        "french": "Paquet supprimé avec succès !"
+    },
+    {
+        "english": "Single Package",
+        "french": "Paquet unique"
+    },
+    {
+        "english": "Delete Package?",
+        "french": "Supprimer le paquet ?"
+    },
+    {
+        "english": "Something went wrong. Contact admin!",
+        "french": "Un problème s'est produit. Contactez l'administrateur !"
+    },
+    {
+        "english": "Update Settings",
+        "french": "Mise à jour des paramètres"
+    },
+    {
+        "english": "Successfully updated settings!",
+        "french": "Mise à jour des paramètres réussie !"
+    },
+    {
+        "english": "Download",
+        "french": "Télécharger"
+    },
+    {
+        "english": "Download Current Status Report",
+        "french": "Télécharger le rapport sur la situation actuelle"
+    },
+    {
+        "english": "Download Distributor Report",
+        "french": "Télécharger le rapport sur les distributeurs"
+    },
+    {
+        "english": "Invalid Key. Please provide the correct one!",
+        "french": "Clé invalide. Veuillez fournir la bonne !"
+    },
+    {
+        "english": "Enter key to download Status Report",
+        "french": "Touche Entrée pour télécharger le rapport d'état"
+    },
+    {
+        "english": "Please verify Captcha",
+        "french": "Veuillez vérifier Captcha"
+    },
+    {
+        "english": "Password",
+        "french": "Mot de passe"
+    },
+    {
+        "english": "Forgot Password?",
+        "french": "Mot de passe oublié ?"
+    },
+    {
+        "english": "Flag",
+        "french": "Drapeau"
+    },
+    {
+        "english": "guest",
+        "french": "invité"
+    },
+    {
+        "english": "Welcome to QQBooker",
+        "french": "Bienvenue à QQBooker"
+    },
+    {
+        "english": "Sign In",
+        "french": "S'inscrire"
+    },
+    {
+        "english": "Enter Email",
+        "french": "Entrer dans l'email"
+    },
+    {
+        "english": "submit",
+        "french": "soumettre"
+    },
+    {
+        "english": "Distributor",
+        "french": "Distributeur"
+    },
+    {
+        "english": "QTY",
+        "french": "QTÉ"
+    },
+    {
+        "english": "quantity",
+        "french": "quantité"
+    },
+    {
+        "english": "Delivery",
+        "french": "Livraison"
+    },
+    {
+        "english": "cost",
+        "french": "coût"
+    },
+    {
+        "english": "Type",
+        "french": "Type"
+    },
+    {
+        "english": "Size",
+        "french": "Taille"
+    },
+    {
+        "english": "Distributor Name",
+        "french": "Nom du distributeur"
+    },
+    {
+        "english": "color",
+        "french": "couleur"
+    },
+    {
+        "english": "Tires",
+        "french": "Tires"
+    },
+    {
+        "english": "Manage",
+        "french": "Gérer"
+    },
+    {
+        "english": "Accessories",
+        "french": "Accessoires"
+    },
+    {
+        "english": "Offset",
+        "french": "Décalage"
+    },
+    {
+        "english": "Eligibility",
+        "french": "Éligibilité"
+    },
+    {
+        "english": "Yes",
+        "french": "Oui"
+    },
+    {
+        "english": "Load",
+        "french": "Chargement"
     },
     {
         "english": "order",
         "french": "commande"
     },
     {
-        "english": "react",
-        "french": "réagir"
+        "english": "Phone Number",
+        "french": "Numéro de téléphone"
     },
     {
-        "english": "Error",
-        "french": "Erreur"
+        "english": "Style",
+        "french": "Style"
+    },
+    {
+        "english": "Details",
+        "french": "Détails"
+    },
+    {
+        "english": "No",
+        "french": "Non"
+    },
+    {
+        "english": "Speed",
+        "french": "Vitesse"
+    },
+    {
+        "english": "Rank",
+        "french": "Rang"
+    },
+    {
+        "english": "Packages",
+        "french": "Emballages"
+    },
+    {
+        "english": "Pattern",
+        "french": "Modèle"
+    },
+    {
+        "english": "My Profile",
+        "french": "Mon profil"
+    },
+    {
+        "english": "Payments",
+        "french": "Paiements"
+    },
+    {
+        "english": "My Data",
+        "french": "Mes données"
+    },
+    {
+        "english": "My Users",
+        "french": "Mes utilisateurs"
+    },
+    {
+        "english": "Reports",
+        "french": "Rapports"
+    },
+    {
+        "english": "Display Preferences",
+        "french": "Préférences d'affichage"
+    },
+    {
+        "english": "DTC Administration",
+        "french": "Administration du DTC"
+    },
+    {
+        "english": "Bookings",
+        "french": "Réservations"
+    },
+    {
+        "english": "Boutique",
+        "french": "Boutique"
+    },
+    {
+        "english": "Dealerships",
+        "french": "Concessionnaires"
+    },
+    {
+        "english": "Users",
+        "french": "Utilisateurs"
+    },
+    {
+        "english": "Sensors",
+        "french": "Capteurs"
+    },
+    {
+        "english": "Programs",
+        "french": "Les programmes"
+    },
+    {
+        "english": "Home",
+        "french": "Accueil"
+    },
+    {
+        "english": "Analytics",
+        "french": "Analyse"
+    },
+    {
+        "english": "Upload Partially Successful",
+        "french": "Chargement partiellement réussi"
+    },
+    {
+        "english": "Validation failed",
+        "french": "Échec de la validation"
     },
     {
         "english": "Upload List",
         "french": "Liste de téléchargement"
     },
     {
-        "english": "Cancel",
-        "french": "Annuler"
+        "english": "start",
+        "french": "commencer"
     },
     {
-        "english": "filters ",
-        "french": "filtres"
+        "english": "Cancel",
+        "french": "Annuler"
     },
     {
         "english": "Upload Packages List",
@@ -48,104 +380,16 @@
         "french": "Téléchargé avec succès"
     },
     {
-        "english": "Something went wrong! Contact Admin",
-        "french": "Quelque chose n'a pas fonctionné ! Contacter l'administrateur"
-    },
-    {
-        "english": "contained",
-        "french": "contenu"
-    },
-    {
-        "english": "Upload Partially Successful",
-        "french": "Chargement partiellement réussi"
-    },
-    {
         "english": "Missing Items",
         "french": "Articles manquants"
-    },
-    {
-        "english": "No missing items found.",
-        "french": "Aucun élément manquant n'a été trouvé."
-    },
-    {
-        "english": "Kit PN",
-        "french": "Kit PN"
     },
     {
         "english": "Close",
         "french": "Fermer"
     },
     {
-        "english": "md",
-        "french": "md"
-    },
-    {
-        "english": "Missing Items (Upload Partially Successful: Review missing items for details.)",
-        "french": "Éléments manquants (téléchargement partiellement réussi : vérifiez les éléments manquants pour plus de détails)."
-    },
-    {
-        "english": "Alias",
-        "french": "Alias"
-    },
-    {
-        "english": "QQBook",
-        "french": "QQBook"
-    },
-    {
-        "english": "contain",
-        "french": "contenir"
-    },
-    {
-        "english": "auto",
-        "french": "automobile"
-    },
-    {
-        "english": "superadmin",
-        "french": "superadministrateur"
-    },
-    {
-        "english": "Admin Banner",
-        "french": "Bannière administrative"
-    },
-    {
-        "english": "use client",
-        "french": "use client"
-    },
-    {
-        "english": "none",
-        "french": "aucun"
-    },
-    {
-        "english": "Sensors",
-        "french": "Capteurs"
-    },
-    {
-        "english": "Download List",
-        "french": "Liste de téléchargement"
-    },
-    {
-        "english": "Downloading in Progress",
-        "french": "Téléchargement en cours"
-    },
-    {
-        "english": "Not able to download file. Contact admin",
-        "french": "Impossible de télécharger le fichier. Contacter l'administrateur"
-    },
-    {
-        "english": "The requested resource was not found.",
-        "french": "La ressource demandée n'a pas été trouvée."
-    },
-    {
-        "english": "ASC",
-        "french": "ASC"
-    },
-    {
-        "english": "basic",
-        "french": "de base"
-    },
-    {
-        "english": "Actions",
-        "french": "Actions"
+        "english": "No missing items found.",
+        "french": "Aucun élément manquant n'a été trouvé."
     },
     {
         "english": "Part Number",
@@ -156,48 +400,8 @@
         "french": "Télécharger la liste des capteurs"
     },
     {
-        "english": "SensorsTable",
-        "french": "Table des capteurs"
-    },
-    {
-        "english": "top",
-        "french": "sommet"
-    },
-    {
-        "english": "initial",
-        "french": "initial"
-    },
-    {
         "english": "Edit Sensor",
         "french": "Edit Sensor"
-    },
-    {
-        "english": "filled",
-        "french": "rempli"
-    },
-    {
-        "english": "Created Sensor!",
-        "french": "Capteur créé !"
-    },
-    {
-        "english": "caption",
-        "french": "légende"
-    },
-    {
-        "english": "* Required Field",
-        "french": "* Champ obligatoire"
-    },
-    {
-        "english": "Please fill out the required fields.",
-        "french": "Veuillez remplir les champs obligatoires."
-    },
-    {
-        "english": "Edit Part Number",
-        "french": "Modifier le numéro de pièce"
-    },
-    {
-        "english": "Update",
-        "french": "Mise à jour"
     },
     {
         "english": "Updated Sensor!",
@@ -208,20 +412,32 @@
         "french": "Ajouter un numéro de pièce"
     },
     {
-        "english": "left",
-        "french": "gauche"
+        "english": "Please fill out the required fields.",
+        "french": "Veuillez remplir les champs obligatoires."
+    },
+    {
+        "english": "Update",
+        "french": "Mise à jour"
+    },
+    {
+        "english": "Created Sensor!",
+        "french": "Capteur créé !"
+    },
+    {
+        "english": "Edit Part Number",
+        "french": "Modifier le numéro de pièce"
     },
     {
         "english": "Add",
         "french": "Ajouter"
     },
     {
-        "english": "Sensor",
-        "french": "Capteur"
+        "english": "Required Field",
+        "french": "Champ obligatoire"
     },
     {
-        "english": "true",
-        "french": "vrai"
+        "english": "Save",
+        "french": "Économiser"
     },
     {
         "english": "Manufacturers",
@@ -230,10 +446,6 @@
     {
         "english": "Assign Tire Manufacturer",
         "french": "Attribuer un fabricant de pneus"
-    },
-    {
-        "english": "Save",
-        "french": "Économiser"
     },
     {
         "english": "Copy Record",
@@ -252,14 +464,6 @@
         "french": "Fichier téléchargé avec succès"
     },
     {
-        "english": "center",
-        "french": "centre"
-    },
-    {
-        "english": "Unable to upload File",
-        "french": "Impossible de télécharger le fichier"
-    },
-    {
         "english": "Upload an Excel file:",
         "french": "Télécharger un fichier Excel :"
     },
@@ -268,20 +472,12 @@
         "french": "Télécharger"
     },
     {
-        "english": "file",
-        "french": "fichier"
-    },
-    {
-        "english": "flex",
-        "french": "fléchir"
+        "english": "Unable to upload File",
+        "french": "Impossible de télécharger le fichier"
     },
     {
         "english": "Change Log:",
         "french": "Journal des modifications :"
-    },
-    {
-        "english": "Download",
-        "french": "Télécharger"
     },
     {
         "english": "Activate TPMS Bonus",
@@ -292,28 +488,8 @@
         "french": "Bonus TPMS"
     },
     {
-        "english": "pointer",
-        "french": "pointeur"
-    },
-    {
-        "english": "relative",
-        "french": "relatif"
-    },
-    {
-        "english": "&:hover",
-        "french": "&:hover"
-    },
-    {
         "english": "Booking Offers",
         "french": "Offres de réservation"
-    },
-    {
-        "english": "capitalize",
-        "french": "capitaliser"
-    },
-    {
-        "english": "& figure",
-        "french": "& figure"
     },
     {
         "english": "Delete Image",
@@ -324,36 +500,16 @@
         "french": "Supprimer le logo"
     },
     {
-        "english": "string",
-        "french": "chaîne de caractères"
-    },
-    {
-        "english": "grey",
-        "french": "gris"
-    },
-    {
-        "english": "span",
-        "french": "la travée"
-    },
-    {
         "english": "No file chosen",
         "french": "Pas de fichier choisi"
-    },
-    {
-        "english": "label",
-        "french": "étiquette"
     },
     {
         "english": "Choose File",
         "french": "Choisir un fichier"
     },
     {
-        "english": "Select which OE Tire brands to include in all programs. You can also manage these per\n        program when creating a new one.",
-        "french": "Sélectionnez les marques de pneus d'origine à inclure dans tous les programmes. Vous pouvez également gérer ces marques par programme lorsque vous en créez un nouveau.\n        programme lors de la création d'un nouveau programme."
-    },
-    {
-        "english": "OE Tires",
-        "french": "OE Tires"
+        "english": "Select which OE Tire brands to include in all programs. You can also manage these per program when creating a new one.",
+        "french": "Sélectionnez les marques de pneus d'origine à inclure dans tous les programmes. Vous pouvez également gérer ces marques par programme lors de la création d'un nouveau programme."
     },
     {
         "english": "Enter brand name",
@@ -364,96 +520,72 @@
         "french": "Ajouter le nom de la marque"
     },
     {
-        "english": "Brand Name",
-        "french": "Nom de la marque"
-    },
-    {
         "english": "OE Tire Brand",
         "french": "Marque du pneu OE"
-    },
-    {
-        "english": "Type Home Screen Message",
-        "french": "Type Message de l'écran d'accueil"
-    },
-    {
-        "english": "Dealer Notification Messages",
-        "french": "Messages de notification du concessionnaire"
-    },
-    {
-        "english": "Ribbon Message",
-        "french": "Message du ruban"
-    },
-    {
-        "english": "Type Ribbon Message",
-        "french": "Type de ruban Message"
     },
     {
         "english": "Display",
         "french": "Affichage"
     },
     {
+        "english": "Dealer Notification Messages",
+        "french": "Messages de notification du concessionnaire"
+    },
+    {
+        "english": "Type Home Screen Message",
+        "french": "Type Message de l'écran d'accueil"
+    },
+    {
+        "english": "Type Ribbon Message",
+        "french": "Type de ruban Message"
+    },
+    {
         "english": "Home Screen Message",
         "french": "Message sur l'écran d'accueil"
     },
     {
-        "english": "imageHtml",
-        "french": "imageHtml"
+        "english": "Ribbon Message",
+        "french": "Message du ruban"
     },
     {
         "english": "Logo",
         "french": "Logo"
     },
     {
-        "english": "OEM NAME (QQ)",
-        "french": "OEM NAME (QQ)"
-    },
-    {
         "english": "OEM NAME",
         "french": "NOM OEM"
     },
     {
-        "english": "address",
-        "french": "adresse"
+        "english": "OEM NAME (QQ)",
+        "french": "OEM NAME (QQ)"
     },
     {
-        "english": "name",
-        "french": "nom"
+        "english": "Address",
+        "french": "Adresse"
     },
     {
         "english": "Unable to fetch OEMs details!",
         "french": "Impossible de récupérer les détails des OEM !"
     },
     {
-        "english": "OEs",
-        "french": "OEs"
+        "english": "Upload Logo",
+        "french": "Télécharger le logo"
     },
     {
-        "english": "Upload Logo *",
-        "french": "Télécharger le logo *"
+        "english": "Edit OE",
+        "french": "Editer OE"
     },
     {
         "english": "Update OEM!",
         "french": "Mise à jour de l'OEM !"
     },
     {
-        "english": "Add OE",
-        "french": "Ajouter OE"
-    },
-    {
-        "english": "button",
-        "french": "bouton"
-    },
-    {
         "english": "Logo is required",
         "french": "Le logo est obligatoire"
     },
     {
-        "english": "newLogo",
-        "french": "nouveauLogo"
-    },
-    {
-        "english": "Edit OE",
-        "french": "Editer OE"
+        "english": "Add OE",
+        "french": "Ajouter OE"
     },
     {
         "english": "OE",
@@ -468,128 +600,84 @@
         "french": "Impossible d'obtenir les détails !"
     },
     {
+        "english": "Closed",
+        "french": "Fermé"
+    },
+    {
         "english": "Report not found. Contact Admin",
         "french": "Rapport non trouvé. Contact Admin"
-    },
-    {
-        "english": "gray",
-        "french": "gris"
-    },
-    {
-        "english": "div",
-        "french": "div"
     },
     {
         "english": "Live",
         "french": "En direct"
     },
     {
-        "english": "Closed",
-        "french": "Fermé"
-    },
-    {
-        "english": "primary",
-        "french": "primaire"
+        "english": "Export Reports",
+        "french": "Exporter des rapports"
     },
     {
         "english": "Draft",
         "french": "Projet"
     },
     {
-        "english": "Export Reports",
-        "french": "Exporter des rapports"
-    },
-    {
-        "english": "Total %",
-        "french": "Total %"
-    },
-    {
-        "english": "TPMS Selected",
-        "french": "TPMS Sélectionné"
-    },
-    {
         "english": "Status",
         "french": "Statut"
-    },
-    {
-        "english": "Booked Current",
-        "french": "Réservé Courant"
-    },
-    {
-        "english": "target",
-        "french": "cible"
-    },
-    {
-        "english": "Booking not yet started",
-        "french": "La réservation n'a pas encore commencé"
-    },
-    {
-        "english": "Submission Status",
-        "french": "État de la soumission"
-    },
-    {
-        "english": "DESC",
-        "french": "DESC"
-    },
-    {
-        "english": "Past $",
-        "french": "Passé $"
-    },
-    {
-        "english": "Booking started, below target",
-        "french": "Début des réservations, inférieur à l'objectif"
-    },
-    {
-        "english": "Pkgs",
-        "french": "Pkgs"
-    },
-    {
-        "english": "Previous Booked",
-        "french": "Précédent Réservé"
-    },
-    {
-        "english": "Target met",
-        "french": "Cible avec"
-    },
-    {
-        "english": "red",
-        "french": "rouge"
-    },
-    {
-        "english": "TPMS Earned",
-        "french": "TPMS gagné"
     },
     {
         "english": "Loose Total",
         "french": "En vrac Total"
     },
     {
-        "english": "Current $",
-        "french": "Courant $"
-    },
-    {
         "english": "Dealer Name",
         "french": "Nom du dealer"
     },
     {
-        "english": "total",
-        "french": "total"
+        "english": "TPMS Selected",
+        "french": "TPMS Sélectionné"
     },
     {
-        "english": "orange",
-        "french": "orange"
+        "english": "Current $",
+        "french": "Courant $"
+    },
+    {
+        "english": "Booking started, below target",
+        "french": "Début des réservations, inférieur à l'objectif"
+    },
+    {
+        "english": "Total %",
+        "french": "Total %"
+    },
+    {
+        "english": "Booked Current",
+        "french": "Réservé Courant"
+    },
+    {
+        "english": "TPMS Earned",
+        "french": "TPMS gagné"
+    },
+    {
+        "english": "Previous Booked",
+        "french": "Précédent Réservé"
+    },
+    {
+        "english": "Past $",
+        "french": "Passé $"
+    },
+    {
+        "english": "Submission Status",
+        "french": "Statut de la soumission"
+    },
+    {
+        "english": "Booking not yet started",
+        "french": "La réservation n'a pas encore commencé"
+    },
+    {
+        "english": "Target met",
+        "french": "Cible avec"
     },
     {
         "english": "Something went wrong while updating.",
         "french": "Un problème s'est produit lors de la mise à jour."
-    },
-    {
-        "english": "API error:",
-        "french": "Erreur API :"
-    },
-    {
-        "english": "Submission status checkbox",
-        "french": "Case à cocher sur l'état de la soumission"
     },
     {
         "english": "Successfully updated submission status!",
@@ -608,28 +696,12 @@
         "french": "Edit Program"
     },
     {
-        "english": "errr",
-        "french": "errr"
-    },
-    {
-        "english": "white",
-        "french": "blanc"
+        "english": "Save Draft",
+        "french": "Sauvegarder le projet"
     },
     {
         "english": "Updated Successfully",
         "french": "Mise à jour réussie"
-    },
-    {
-        "english": "*Required Field",
-        "french": "*Champ requis"
-    },
-    {
-        "english": "Create A New Program",
-        "french": "Créer un nouveau programme"
-    },
-    {
-        "english": "Save Draft",
-        "french": "Sauvegarder le projet"
     },
     {
         "english": "Delete Program",
@@ -640,36 +712,36 @@
         "french": "Impossible de supprimer. Veuillez contacter l'administrateur."
     },
     {
-        "english": "Please fill out the required fields to Save.",
-        "french": "Veuillez remplir les champs requis pour enregistrer votre demande."
-    },
-    {
-        "english": "Launch",
-        "french": "Lancement"
-    },
-    {
-        "english": "Created Successfully",
-        "french": "Créé avec succès"
-    },
-    {
-        "english": "Not able Save details. Contact Admin",
-        "french": "Impossible de sauvegarder les détails. Contact Admin"
+        "english": "Required Field",
+        "french": "Champ obligatoire"
     },
     {
         "english": "Record deleted successully",
         "french": "Enregistrement supprimé avec succès"
     },
     {
-        "english": "normal",
-        "french": "normal"
+        "english": "Launch",
+        "french": "Lancement"
     },
     {
-        "english": "bold",
-        "french": "audacieux"
+        "english": "Create A New Program",
+        "french": "Créer un nouveau programme"
     },
     {
-        "english": "fwNormal",
-        "french": "fwNormal"
+        "english": "Created Successfully",
+        "french": "Créé avec succès"
+    },
+    {
+        "english": "Please fill out the required fields to Save.",
+        "french": "Veuillez remplir les champs requis pour enregistrer votre demande."
+    },
+    {
+        "english": "Not able Save details. Contact Admin",
+        "french": "Impossible de sauvegarder les détails. Contact Admin"
+    },
+    {
+        "english": "Last Updated:",
+        "french": "Dernière mise à jour :"
     },
     {
         "english": "Warning:",
@@ -680,112 +752,20 @@
         "french": "- Fichier téléchargé"
     },
     {
-        "english": "fwBold",
-        "french": "fwBold"
-    },
-    {
-        "english": "Last Updated:",
-        "french": "Dernière mise à jour :"
-    },
-    {
-        "english": "you will be unable to change pricing once program\n        is live.",
-        "french": "vous ne pourrez pas modifier les prix une fois que le programme\n        est en ligne."
-    },
-    {
-        "english": "italic",
-        "french": "italique"
-    },
-    {
-        "english": "NA",
-        "french": "NA"
-    },
-    {
-        "english": "absolute",
-        "french": "absolu"
-    },
-    {
-        "english": "dealers",
-        "french": "dealers"
-    },
-    {
-        "english": "company",
-        "french": "entreprise"
-    },
-    {
-        "english": "Dealer",
-        "french": "Dealer"
-    },
-    {
-        "english": "New Target",
-        "french": "Nouvelle cible"
-    },
-    {
-        "english": "Only applies to winter programs.",
-        "french": "S'applique uniquement aux programmes d'hiver."
+        "english": "you will be unable to change pricing once program is live.",
+        "french": "vous ne pourrez pas modifier les prix une fois que le programme sera en ligne."
     },
     {
         "english": "Accessories Last Updated:",
         "french": "Accessoires Dernière mise à jour :"
     },
     {
-        "english": "Packages Last Updated:",
-        "french": "Dernière mise à jour des paquets :"
-    },
-    {
-        "english": "Select a date",
-        "french": "Sélectionnez une date"
-    },
-    {
-        "english": "If the program start date is in the future your program will be set to draft until it goes\n        live making changes easy.",
-        "french": "Si la date de début du programme se situe dans le futur, votre programme sera considéré comme une ébauche jusqu'à ce qu'il soit mis en ligne, ce qui facilite les modifications.\n        jusqu'à ce qu'il soit mis en ligne, ce qui facilite les changements."
-    },
-    {
-        "english": "Booking Type*",
-        "french": "Type de réservation*"
-    },
-    {
-        "english": "end",
-        "french": "fin"
-    },
-    {
-        "english": "Black Out Dates Packages",
-        "french": "Forfaits Black Out Dates"
-    },
-    {
-        "english": "End Date *",
-        "french": "Date de fin *"
-    },
-    {
-        "english": "Program name is required.",
-        "french": "Le nom du programme est obligatoire."
-    },
-    {
-        "english": "TPMS Bonus Date",
-        "french": "Date de bonus TPMS"
-    },
-    {
-        "english": "T",
-        "french": "T"
-    },
-    {
-        "english": "Start date is required.",
-        "french": "La date de début est requise."
+        "english": "Only applies to winter programs.",
+        "french": "S'applique uniquement aux programmes d'hiver."
     },
     {
         "english": "Select what season this will be to allow for comparative analytics.",
         "french": "Sélectionnez la saison à laquelle il s'agira de procéder à des analyses comparatives."
-    },
-    {
-        "english": " to ",
-        "french": " à"
-    },
-    {
-        "english": "Program Name*",
-        "french": "Nom du programme"
-    },
-    {
-        "english": "Spring",
-        "french": "Printemps"
     },
     {
         "english": "End date is required.",
@@ -796,348 +776,164 @@
         "french": "Date de début *"
     },
     {
-        "english": "off",
-        "french": "éteint"
+        "english": "Black Out Dates Packages",
+        "french": "Forfaits Black Out Dates"
     },
     {
-        "english": "Fall",
-        "french": "Cas"
+        "english": "Start date is required.",
+        "french": "La date de début est requise."
     },
     {
-        "english": "Black Out Dates",
-        "french": "Black Out Dates"
+        "english": "End Date *",
+        "french": "Date de fin *"
     },
     {
-        "english": "Other",
-        "french": "Autres"
+        "english": "Booking Type",
+        "french": "Type de réservation"
     },
     {
-        "english": "textSecondary",
-        "french": "texteSecondaire"
+        "english": "Spring",
+        "french": "Printemps"
+    },
+    {
+        "english": "If the program start date is in the future your program will be set to draft until it goes live making changes easy.",
+        "french": "Si la date de début du programme se situe dans le futur, votre programme sera mis à l'état de projet jusqu'à ce qu'il soit mis en ligne, ce qui facilitera les modifications."
+    },
+    {
+        "english": "Program name is required.",
+        "french": "Le nom du programme est obligatoire."
+    },
+    {
+        "english": "Program Name*",
+        "french": "Nom du programme"
+    },
+    {
+        "english": "Select a date",
+        "french": "Sélectionnez une date"
     },
     {
         "english": "Unable to fetch OE admins details!",
         "french": "Impossible de récupérer les détails des administrateurs de l'OE !"
     },
     {
-        "english": "columnsUsers(sort, setUsers, users?.dealerships), [sort, users]);\n\n  return (",
-        "french": "columnsUsers(sort, setUsers, users ?.dealerships), [sort, users]) ;\n\n  return ("
-    },
-    {
         "english": "Admin Users",
         "french": "Utilisateurs administratifs"
-    },
-    {
-        "english": "role",
-        "french": "rôle"
-    },
-    {
-        "english": "Full Name",
-        "french": "Nom complet"
-    },
-    {
-        "english": "Email",
-        "french": "Courriel"
-    },
-    {
-        "english": "Last Login",
-        "french": "Dernier login"
     },
     {
         "english": "Active",
         "french": "Actif"
     },
     {
+        "english": "Last Login",
+        "french": "Dernier login"
+    },
+    {
+        "english": "Full Name",
+        "french": "Nom complet"
+    },
+    {
         "english": "Admin User",
         "french": "Utilisateur Admin"
-    },
-    {
-        "english": "Updated OE Admin User!",
-        "french": "Mise à jour de l'utilisateur Admin OE !"
-    },
-    {
-        "english": "wrap",
-        "french": "envelopper"
-    },
-    {
-        "english": "Edit Admin User",
-        "french": "Edit Admin Utilisateur"
-    },
-    {
-        "english": "password",
-        "french": "mot de passe"
-    },
-    {
-        "english": "Confirm Password",
-        "french": "Confirmer le mot de passe"
-    },
-    {
-        "english": "Add Admin User",
-        "french": "Ajouter un utilisateur Admin"
-    },
-    {
-        "english": "username",
-        "french": "nom d'utilisateur"
-    },
-    {
-        "english": "Passwords do not match",
-        "french": "Les mots de passe ne correspondent pas"
     },
     {
         "english": "Regional Manager",
         "french": "Directeur régional"
     },
     {
-        "english": "outlined",
-        "french": "esquissée"
+        "english": "Passwords do not match",
+        "french": "Les mots de passe ne correspondent pas"
     },
     {
-        "english": " (  )",
-        "french": " ( )"
+        "english": "Add Admin User",
+        "french": "Ajouter un utilisateur Admin"
     },
     {
-        "english": "OE Manager",
-        "french": "OE Manager"
+        "english": "Edit Admin User",
+        "french": "Edit Admin Utilisateur"
     },
     {
-        "english": "cpassword",
-        "french": "mot de passe"
+        "english": "Updated OE Admin User!",
+        "french": "Mise à jour de l'utilisateur Admin OE !"
     },
     {
-        "english": "table",
-        "french": "table"
-    },
-    {
-        "english": "Yukon",
-        "french": "Yukon"
-    },
-    {
-        "english": "Alberta",
-        "french": "Alberta"
-    },
-    {
-        "english": "British Columbia",
-        "french": "Colombie-Britannique"
-    },
-    {
-        "english": "The dealership name is required.",
-        "french": "Le nom du concessionnaire est obligatoire."
-    },
-    {
-        "english": "The Dealership Phone is required.",
-        "french": "Le téléphone du concessionnaire est nécessaire."
-    },
-    {
-        "english": "Nunavut",
-        "french": "Nunavut"
-    },
-    {
-        "english": "state",
-        "french": "État"
-    },
-    {
-        "english": "text",
-        "french": "texte"
-    },
-    {
-        "english": "Password *",
-        "french": "Mot de passe *"
-    },
-    {
-        "english": "Manitoba",
-        "french": "Manitoba"
-    },
-    {
-        "english": "dealerCustomerName",
-        "french": "dealerCustomerName"
-    },
-    {
-        "english": "The Dealer Area is required.",
-        "french": "L'espace revendeur est obligatoire."
-    },
-    {
-        "english": "Dealer Code",
-        "french": "Code du dealer"
-    },
-    {
-        "english": "Confirm Password *",
-        "french": "Confirmer le mot de passe *"
-    },
-    {
-        "english": "Main Contact Email",
-        "french": "Courriel du contact principal"
-    },
-    {
-        "english": "Dealer Booking Tool Login Credentials",
-        "french": "Identifiants de connexion à l'outil de réservation pour les concessionnaires"
-    },
-    {
-        "english": "Phone",
-        "french": "Téléphone"
-    },
-    {
-        "english": "Prince Edward Island",
-        "french": "Île-du-Prince-Édouard"
-    },
-    {
-        "english": "The User Name is required.",
-        "french": "Le nom d'utilisateur est obligatoire."
-    },
-    {
-        "english": "Newfoundland and Labrador",
-        "french": "Terre-Neuve et Labrador"
-    },
-    {
-        "english": "selectedUser",
-        "french": "utilisateur sélectionné"
-    },
-    {
-        "english": "dealerName",
-        "french": "dealerName"
-    },
-    {
-        "english": "dealerCode",
-        "french": "dealerCode"
-    },
-    {
-        "english": "This Dealer is also an active QQuote user. Link their accounts.",
-        "french": "Ce concessionnaire est également un utilisateur actif de QQuote. Lier leurs comptes."
-    },
-    {
-        "english": "Country",
-        "french": "Pays"
-    },
-    {
-        "english": "Canada",
-        "french": "Canada"
-    },
-    {
-        "english": "If you change the Passsword it will override the existing password for the user.",
-        "french": "Si vous modifiez le mot de passe, il remplacera le mot de passe existant pour l'utilisateur."
-    },
-    {
-        "english": "toggle password visibility",
-        "french": "activer la visibilité du mot de passe"
-    },
-    {
-        "english": "The User Email is required.",
-        "french": "L'adresse électronique de l'utilisateur est obligatoire."
-    },
-    {
-        "english": "dealerEmail",
-        "french": "Adresse électronique du concessionnaire"
-    },
-    {
-        "english": "Dealership Name (QQ)",
-        "french": "Nom du concessionnaire (QQ)"
-    },
-    {
-        "english": "Ontario",
-        "french": "Ontario"
-    },
-    {
-        "english": "The Dealer Code is required.",
-        "french": "Le code du concessionnaire est requis."
-    },
-    {
-        "english": "Quebec",
-        "french": "Québec"
-    },
-    {
-        "english": "Saskatchewan",
-        "french": "Saskatchewan"
-    },
-    {
-        "english": "Area",
-        "french": "Zone"
-    },
-    {
-        "english": "object",
-        "french": "objet"
-    },
-    {
-        "english": "qquoteUser",
-        "french": "qquoteUtilisateur"
-    },
-    {
-        "english": "Dealer Group",
-        "french": "Groupe de distributeurs"
+        "english": "Confirm Password",
+        "french": "Confirmer le mot de passe"
     },
     {
         "english": "Unable to update! Fill out the required fields",
         "french": "Impossible de mettre à jour ! Remplir les champs obligatoires"
     },
     {
-        "english": "Successfullly updated!",
-        "french": "Mise à jour réussie !"
+        "english": "If you change the Passsword it will override the existing password for the user.",
+        "french": "Si vous modifiez le mot de passe, il remplacera le mot de passe existant pour l'utilisateur."
     },
     {
-        "english": "Nova Scotia",
-        "french": "Nouvelle-Écosse"
+        "english": "Password",
+        "french": "Mot de passe"
     },
     {
-        "english": "Dealership Name (OEM)",
-        "french": "Nom du concessionnaire (OEM)"
-    },
-    {
-        "english": "The Dealership Address is required.",
-        "french": "L'adresse du concessionnaire est obligatoire."
-    },
-    {
-        "english": "Does this dealer need access to any other accounts to create and submit bookings?",
-        "french": "Ce concessionnaire doit-il avoir accès à d'autres comptes pour créer et soumettre des réservations ?"
-    },
-    {
-        "english": "confirmPassword",
-        "french": "confirmerMotdepasse"
-    },
-    {
-        "english": "New Brunswick",
-        "french": "Nouveau-Brunswick"
-    },
-    {
-        "english": "ellipsis",
-        "french": "ellipse"
-    },
-    {
-        "english": "Show Password Fields",
-        "french": "Afficher les champs du mot de passe"
-    },
-    {
-        "english": "Northwest Territories",
-        "french": "Territoires du Nord-Ouest"
-    },
-    {
-        "english": "nowrap",
-        "french": "piège à souris"
-    },
-    {
-        "english": "dealerArea",
-        "french": "zone de vente"
-    },
-    {
-        "english": "showPasswordFields",
-        "french": "showPasswordFields"
+        "english": "toggle password visibility",
+        "french": "activer la visibilité du mot de passe"
     },
     {
         "english": "The Dealership Email is required.",
         "french": "L'adresse électronique du concessionnaire est obligatoire."
     },
     {
-        "english": "hidden",
-        "french": "caché"
+        "english": "The dealership name is required.",
+        "french": "Le nom du concessionnaire est obligatoire."
     },
     {
-        "english": "selectedDealers",
-        "french": "selectedDealers"
+        "english": "The Dealership Address is required.",
+        "french": "L'adresse du concessionnaire est obligatoire."
     },
     {
-        "english": "dealerGroup",
-        "french": "dealerGroup"
+        "english": "Show Password Fields",
+        "french": "Afficher les champs du mot de passe"
     },
     {
-        "english": "User Email",
-        "french": "Email de l'utilisateur"
+        "english": "This Dealer is also an active QQuote user. Link their accounts.",
+        "french": "Ce concessionnaire est également un utilisateur actif de QQuote. Lier leurs comptes."
+    },
+    {
+        "english": "The Dealership Phone is required.",
+        "french": "Le téléphone du concessionnaire est nécessaire."
+    },
+    {
+        "english": "The Dealer Code is required.",
+        "french": "Le code du concessionnaire est requis."
+    },
+    {
+        "english": "Main Contact Email",
+        "french": "Courriel du contact principal"
+    },
+    {
+        "english": "Confirm Password",
+        "french": "Confirmer le mot de passe"
+    },
+    {
+        "english": "Dealer Booking Tool Login Credentials",
+        "french": "Identifiants de connexion à l'outil de réservation pour les concessionnaires"
+    },
+    {
+        "english": "The User Name is required.",
+        "french": "Le nom d'utilisateur est obligatoire."
+    },
+    {
+        "english": "Does this dealer need access to any other accounts to create and submit bookings?",
+        "french": "Ce concessionnaire a-t-il besoin d'accéder à d'autres comptes pour créer et soumettre des réservations ?"
+    },
+    {
+        "english": "Dealership Name (OEM)",
+        "french": "Nom du concessionnaire (OEM)"
+    },
+    {
+        "english": "The User Email is required.",
+        "french": "L'adresse électronique de l'utilisateur est obligatoire."
+    },
+    {
+        "english": "Successfullly updated!",
+        "french": "Mise à jour réussie !"
     },
     {
         "english": "No results",
@@ -1152,10 +948,6 @@
         "french": "Supprimer"
     },
     {
-        "english": "Confirm Delete",
-        "french": "Confirmer Supprimer"
-    },
-    {
         "english": "Are you sure you want to delete this Dealer?",
         "french": "Êtes-vous sûr de vouloir supprimer ce concessionnaire ?"
     },
@@ -1164,80 +956,36 @@
         "french": "Supprimer l'utilisateur"
     },
     {
-        "english": "Delete User?",
-        "french": "Supprimer l'utilisateur ?"
-    },
-    {
         "english": "Are you sure you want to delete this User?",
         "french": "Êtes-vous sûr de vouloir supprimer cet utilisateur ?"
+    },
+    {
+        "english": "Delete User?",
+        "french": "Supprimer l'utilisateur ?"
     },
     {
         "english": "Unable to fetch dealerships details!",
         "french": "Impossible d'obtenir les coordonnées des concessionnaires !"
     },
     {
-        "english": "Dealerships",
-        "french": "Concessionnaires"
-    },
-    {
-        "english": "Dealership Logo",
-        "french": "Logo de la concession"
-    },
-    {
-        "english": "Group",
-        "french": "Groupe"
-    },
-    {
-        "english": "DIr Code",
-        "french": "Code DIr"
-    },
-    {
-        "english": "logoHTML",
-        "french": "logoHTML"
-    },
-    {
-        "english": "brand",
-        "french": "marque"
-    },
-    {
-        "english": "OEM",
-        "french": "OEM"
-    },
-    {
-        "english": "Addrress",
-        "french": "Addrress"
-    },
-    {
-        "english": "QQ",
-        "french": "QQ"
-    },
-    {
-        "english": "edit",
-        "french": "éditer"
-    },
-    {
-        "english": "dealershipName",
-        "french": "nom du concessionnaire"
-    },
-    {
-        "english": "Add Dealership",
-        "french": "Ajouter un concessionnaire"
-    },
-    {
         "english": "Added Dealership!",
         "french": "Ajout d'un concessionnaire !"
     },
     {
-        "english": "Dealership Name",
-        "french": "Nom du concessionnaire"
+        "english": "Upload Logo",
+        "french": "Télécharger le logo"
     },
     {
         "english": "Unable to add Dealership!",
         "french": "Impossible d'ajouter un concessionnaire !"
     },
     {
-        "english": "Upload Logo",
-        "french": "Télécharger le logo"
+        "english": "Add Dealership",
+        "french": "Ajouter un concessionnaire"
+    },
+    {
+        "english": "Dealership Name",
+        "french": "Nom du concessionnaire"
     },
     {
         "english": "Import Dealers",
@@ -1248,60 +996,8 @@
         "french": "Télécharger un espace réservé"
     },
     {
-        "english": "input",
-        "french": "entrée"
-    },
-    {
         "english": "Upload Distributor List",
         "french": "Télécharger la liste des distributeurs"
-    },
-    {
-        "english": "oval",
-        "french": "ovale"
-    },
-    {
-        "english": "circle",
-        "french": "cercle"
-    },
-    {
-        "english": "px",
-        "french": "px"
-    },
-    {
-        "english": "rectangle",
-        "french": "rectangle"
-    },
-    {
-        "english": "stripe",
-        "french": "rayure"
-    },
-    {
-        "english": "square",
-        "french": "carré"
-    },
-    {
-        "english": "disabled",
-        "french": "handicapé"
-    },
-    {
-        "english": "submit",
-        "french": "soumettre"
-    },
-    {
-        "english": "Upload a Past Order",
-        "french": "Télécharger une commande antérieure"
-    },
-    {
-        "english": "Global Search",
-        "french": "Recherche globale"
-    },
-    {
-        "english": "search",
-        "french": "recherche"
-    },
-    {
-        "english": "Select an available booking program and dealership above to get started.",
-        "french": "Sélectionnez un programme de réservation et un concessionnaire ci-dessus pour commencer."
     },
     {
         "english": "Booking Has Been Closed!",
@@ -1312,20 +1008,16 @@
         "french": "Réservation soumise"
     },
     {
-        "english": "Unable to save details!",
-        "french": "Impossible d'enregistrer les détails !"
+        "english": "Select an available booking program and dealership above to get started.",
+        "french": "Sélectionnez un programme de réservation et un concessionnaire ci-dessus pour commencer."
     },
     {
-        "english": "Submit Booking",
-        "french": "Soumettre une réservation"
+        "english": "Global Search",
+        "french": "Recherche globale"
     },
     {
-        "english": "Details Saved Successfully! Please fill out the empty fields",
-        "french": "Détails enregistrés avec succès ! Veuillez remplir les champs vides"
-    },
-    {
-        "english": "TPMS is underassigned. Assign remaining TPMS before submitting the booking.",
-        "french": "Le système TPMS n'est pas attribué. Attribuez les TPMS restants avant de soumettre la réservation."
+        "english": "Upload a Past Order",
+        "french": "Télécharger une commande antérieure"
     },
     {
         "english": "Details Saved Successfully!",
@@ -1336,52 +1028,52 @@
         "french": "Le système TPMS a été attribué de manière excessive. Réaffectez-le avant de soumettre la réservation."
     },
     {
-        "english": "Warning",
-        "french": "Avertissement"
+        "english": "TPMS is underassigned. Assign remaining TPMS before submitting the booking.",
+        "french": "Le système TPMS n'est pas attribué. Attribuez les TPMS restants avant de soumettre la réservation."
     },
     {
-        "english": "Submit Booking?",
-        "french": "Soumettre la réservation ?"
+        "english": "Submit Booking",
+        "french": "Soumettre une réservation"
+    },
+    {
+        "english": "Unable to save details!",
+        "french": "Impossible d'enregistrer les détails !"
+    },
+    {
+        "english": "Details Saved Successfully! Please fill out the empty fields",
+        "french": "Détails enregistrés avec succès ! Veuillez remplir les champs vides"
+    },
+    {
+        "english": "Warning",
+        "french": "Avertissement"
     },
     {
         "english": "Once submitted, you will NOT be able to make changes.",
         "french": "Une fois le formulaire soumis, vous ne pourrez PAS le modifier."
     },
     {
-        "english": "fulfilled",
-        "french": "satisfaits"
-    },
-    {
-        "english": "sticky table",
-        "french": "table collante"
-    },
-    {
-        "english": "th",
-        "french": "th"
-    },
-    {
-        "english": "Click To Select Dealership",
-        "french": "Cliquez pour sélectionner le concessionnaire"
+        "english": "Submit Booking?",
+        "french": "Soumettre la réservation ?"
     },
     {
         "english": "Dealership *",
         "french": "Concessionnaire *"
     },
     {
-        "english": "row",
-        "french": "rangée"
-    },
-    {
         "english": "Select Dealership",
         "french": "Sélectionner un concessionnaire"
     },
     {
-        "english": "Click To Load Program",
-        "french": "Cliquer pour charger le programme"
+        "english": "Click To Select Dealership",
+        "french": "Cliquez pour sélectionner le concessionnaire"
     },
     {
-        "english": "programName",
-        "french": "nom du programme"
+        "english": "Booking Program *",
+        "french": "Programme de réservation *"
+    },
+    {
+        "english": "Click To Load Program",
+        "french": "Cliquer pour charger le programme"
     },
     {
         "english": "Open",
@@ -1390,10 +1082,6 @@
     {
         "english": "Select Booking Program",
         "french": "Sélectionner le programme de réservation"
-    },
-    {
-        "english": "Booking Program *",
-        "french": "Programme de réservation *"
     },
     {
         "english": "You will still have the ability to make changes while program booking window is open.",
@@ -1408,144 +1096,68 @@
         "french": "Sauvegarder la réservation ?"
     },
     {
-        "english": "dealerId",
-        "french": "dealerId"
-    },
-    {
         "english": "Note: This will completely override previously added Tires!",
         "french": "Note : Ceci annulera complètement les pneus ajoutés précédemment !"
-    },
-    {
-        "english": "programId",
-        "french": "programmeId"
-    },
-    {
-        "english": "Uploaded successfully with missing Items.",
-        "french": "Téléchargé avec succès avec les éléments manquants."
-    },
-    {
-        "english": "targetId",
-        "french": "targetId"
-    },
-    {
-        "english": "Error! Target not uploaded for this Dealership",
-        "french": "Erreur ! La cible n'a pas été téléchargée pour ce concessionnaire"
-    },
-    {
-        "english": "orderFile",
-        "french": "fichier de commande"
     },
     {
         "english": "Upload Past Order",
         "french": "Télécharger une commande antérieure"
     },
     {
-        "english": "Missing Info",
-        "french": "Informations manquantes"
+        "english": "Error! Target not uploaded for this Dealership",
+        "french": "Erreur ! La cible n'a pas été téléchargée pour ce concessionnaire"
+    },
+    {
+        "english": "Uploaded successfully with missing Items.",
+        "french": "Téléchargé avec succès avec les éléments manquants."
     },
     {
         "english": "Missing Items (Upload Successfully: Review missing items for details.)",
         "french": "Éléments manquants (Chargement réussi : vérifiez les éléments manquants pour plus de détails)."
     },
     {
+        "english": "Missing Info",
+        "french": "Informations manquantes"
+    },
+    {
         "english": "Click to Download Order",
         "french": "Cliquez pour télécharger la commande"
-    },
-    {
-        "english": "Escape",
-        "french": "S'évader"
-    },
-    {
-        "english": "small",
-        "french": "petit"
-    },
-    {
-        "english": "sticky",
-        "french": "collant"
     },
     {
         "english": "Login as Dealer",
         "french": "Se connecter en tant que revendeur"
     },
     {
-        "english": "column",
-        "french": "colonne"
-    },
-    {
-        "english": "medium",
-        "french": "moyen"
+        "english": "Escape",
+        "french": "S'évader"
     },
     {
         "english": "Landing Banner",
         "french": "Bannière d'atterrissage"
     },
     {
-        "english": "Flag",
-        "french": "Drapeau"
-    },
-    {
-        "english": "block",
-        "french": "bloc"
-    },
-    {
-        "english": "Powered by",
-        "french": "Propulsé par"
-    },
-    {
-        "english": "Last Submitted:",
-        "french": "Dernière soumission :"
-    },
-    {
         "english": "Dealer Logo",
         "french": "Logo du revendeur"
-    },
-    {
-        "english": "state.dealerProgram.isProgramDatePast);\n  const closingDateFormatted = getClosingDateTime(\n    programData?.closingTime,\n    programData?.updatedTime,\n  );\n\n  return (",
-        "french": "state.dealerProgram.isProgramDatePast) ;\n  const closingDateFormatted = getClosingDateTime(\n    programData ?.closingTime,\n    programData ?.updatedTime,\n  ) ;\n\n  return ("
-    },
-    {
-        "english": "Last saved:",
-        "french": "Dernière sauvegarde :"
     },
     {
         "english": "Sync Booker Data",
         "french": "Synchroniser les données du booker"
     },
     {
-        "english": "right",
-        "french": "droit"
-    },
-    {
-        "english": "bottom",
-        "french": "fond"
-    },
-    {
-        "english": "Account",
-        "french": "Compte"
+        "english": "Logout",
+        "french": "Déconnexion"
     },
     {
         "english": "Reset Password",
         "french": "Réinitialiser le mot de passe"
     },
     {
-        "english": "Logout",
-        "french": "Déconnexion"
-    },
-    {
-        "english": "number",
-        "french": "nombre"
-    },
-    {
-        "english": "Set Target",
-        "french": "Fixer un objectif"
-    },
-    {
         "english": "Target updated successfully",
         "french": "Mise à jour réussie de la cible"
     },
     {
-        "english": "Set Dealer Target",
-        "french": "Définir l'objectif du concessionnaire"
+        "english": "Set Target",
+        "french": "Fixer un objectif"
     },
     {
         "english": "Unable to update target!",
@@ -1556,236 +1168,68 @@
         "french": "Cible du dealer"
     },
     {
-        "english": "Program selection is required.",
-        "french": "La sélection du programme est requise."
-    },
-    {
         "english": "Unable to update target. Contact Admin",
         "french": "Impossible de mettre à jour la cible. Contacter l'administrateur"
     },
     {
-        "english": "Program",
-        "french": "Programme"
+        "english": "Program selection is required.",
+        "french": "La sélection du programme est requise."
     },
     {
-        "english": "Unable to update password. Contact Admin",
-        "french": "Impossible de mettre à jour le mot de passe. Contacter l'administrateur"
-    },
-    {
-        "english": "Unable to update password!",
-        "french": "Impossible de mettre à jour le mot de passe !"
-    },
-    {
-        "english": "Password updated successfully",
-        "french": "Mot de passe mis à jour avec succès"
+        "english": "Set Dealer Target",
+        "french": "Définir l'objectif du concessionnaire"
     },
     {
         "english": "Reset",
         "french": "Réinitialisation"
     },
     {
-        "english": "black",
-        "french": "noir"
+        "english": "Unable to update password!",
+        "french": "Impossible de mettre à jour le mot de passe !"
     },
     {
-        "english": "Target:",
-        "french": "Cible :"
+        "english": "Unable to update password. Contact Admin",
+        "french": "Impossible de mettre à jour le mot de passe. Contacter l'administrateur"
     },
     {
-        "english": "Net Total:",
-        "french": "Total net :"
-    },
-    {
-        "english": "QTY Total Tires:",
-        "french": "QTÉ Total des pneus :"
-    },
-    {
-        "english": "inherit",
-        "french": "hériter"
-    },
-    {
-        "english": "Unable to fetch tires details!",
-        "french": "Impossible d'obtenir les détails des pneus !"
-    },
-    {
-        "english": "smooth",
-        "french": "lisse"
+        "english": "Password updated successfully",
+        "french": "Mot de passe mis à jour avec succès"
     },
     {
         "english": "Please select the delivery date you wish to have the tires delivered.",
         "french": "Veuillez sélectionner la date à laquelle vous souhaitez que les pneus soient livrés."
     },
     {
-        "english": "Image",
-        "french": "Image"
-    },
-    {
-        "english": "quantity",
-        "french": "quantité"
-    },
-    {
-        "english": "tires",
-        "french": "tires"
-    },
-    {
-        "english": "Please enter number of TIRE UNITS you wish to order.",
-        "french": "Veuillez saisir le nombre d'unités de pneus que vous souhaitez commander."
-    },
-    {
-        "english": "QTY Tires",
-        "french": "QTÉ Pneus"
-    },
-    {
-        "english": "Tire Size",
-        "french": "Tire Size"
-    },
-    {
-        "english": "Identifier",
-        "french": "Identifier"
-    },
-    {
-        "english": "Distributor",
-        "french": "Distributeur"
-    },
-    {
-        "english": "Net $",
-        "french": "Montant net"
-    },
-    {
         "english": "Please select distributor you wish to order from.",
         "french": "Veuillez sélectionner le distributeur auprès duquel vous souhaitez passer commande."
     },
     {
-        "english": "cost",
-        "french": "coût"
-    },
-    {
-        "english": "Delivery",
-        "french": "Livraison"
-    },
-    {
-        "english": "Load",
-        "french": "Chargement"
-    },
-    {
-        "english": "Speed",
-        "french": "Vitesse"
-    },
-    {
-        "english": "DIr $",
-        "french": "DIr $"
-    },
-    {
-        "english": "Cu $",
-        "french": "Cu $"
-    },
-    {
-        "english": "option.id === distributorId);\n\n      return isProgramDatePast ? (\n        distributor ? (\n          distributor.label\n        ) : (\n          ''\n        )\n      ) : (",
-        "french": "option.id === distributorId) ;\n\n      return isProgramDatePast ? (\n        distributeur ? (\n          distributeur.label\n        ) : (\n          ''\n        )\n      ) : ("
-    },
-    {
-        "english": "Manufacturer",
-        "french": "Fabricant"
-    },
-    {
-        "english": "Missing original index",
-        "french": "Index original manquant"
-    },
-    {
-        "english": "Wheels",
-        "french": "Roues"
+        "english": "Please enter number of TIRE UNITS you wish to order.",
+        "french": "Veuillez indiquer le nombre d'unités de pneus que vous souhaitez commander."
     },
     {
         "english": "Add Wheels to include in your booking.",
         "french": "Ajoutez les roues à votre réservation."
     },
     {
-        "english": "Number Of Wheels:",
-        "french": "Nombre de roues :"
-    },
-    {
-        "english": "Packages",
-        "french": "Emballages"
-    },
-    {
-        "english": "Expand",
-        "french": "Élargir"
-    },
-    {
-        "english": "Collapse",
-        "french": "Effondrement"
-    },
-    {
-        "english": "Number Of Sets:",
-        "french": "Nombre de jeux :"
-    },
-    {
-        "english": "default",
-        "french": "par défaut"
-    },
-    {
         "english": "Add Package Sets to include in your booking.",
         "french": "Ajoutez des ensembles de forfaits à inclure dans votre réservation."
-    },
-    {
-        "english": "Number Of Tires:",
-        "french": "Nombre de pneus :"
     },
     {
         "english": "Add Tires to include in your booking.",
         "french": "Ajoutez les pneus à votre réservation."
     },
     {
-        "english": "Color",
-        "french": "Couleur"
-    },
-    {
-        "english": "Type",
-        "french": "Type"
-    },
-    {
-        "english": "Size",
-        "french": "Taille"
-    },
-    {
-        "english": "Style",
-        "french": "Style"
-    },
-    {
-        "english": "Offset",
-        "french": "Décalage"
-    },
-    {
-        "english": "CB",
-        "french": "CB"
-    },
-    {
-        "english": "Pattern",
-        "french": "Modèle"
-    },
-    {
-        "english": "Unable to fetch wheels details!",
-        "french": "Impossible d'obtenir les détails des roues !"
-    },
-    {
-        "english": "Add Wheels to List",
-        "french": "Ajouter les roues à la liste"
+        "english": "Please select atleast one wheel!",
+        "french": "Veuillez sélectionner au moins une roue !"
     },
     {
         "english": "Select at least one additional wheel to add to your booking.",
         "french": "Sélectionnez au moins une roue supplémentaire à ajouter à votre réservation."
     },
     {
-        "english": "Please select atleast one wheel!",
-        "french": "Veuillez sélectionner au moins une roue !"
-    },
-    {
-        "english": "id",
-        "french": "id"
-    },
-    {
-        "english": "dimension",
-        "french": "dimension"
+        "english": "Unable to fetch wheels details!",
+        "french": "Impossible d'obtenir les détails des roues !"
     },
     {
         "english": "Unable to fetch packages details!",
@@ -1796,26 +1240,6 @@
         "french": "Veuillez sélectionner au moins un paquet !"
     },
     {
-        "english": "Add Packages",
-        "french": "Ajouter des paquets"
-    },
-    {
-        "english": "Roboto",
-        "french": "Roboto"
-    },
-    {
-        "english": "description",
-        "french": "description"
-    },
-    {
-        "english": "QTY Sets",
-        "french": "QTY Sets"
-    },
-    {
-        "english": "wheelImageHtml",
-        "french": "wheelImageHtml"
-    },
-    {
         "english": "Please select the delivery date you wish to have the set delivered.",
         "french": "Veuillez sélectionner la date de livraison souhaitée."
     },
@@ -1824,184 +1248,20 @@
         "french": "Veuillez indiquer le nombre d'ensembles de paquets que vous souhaitez commander."
     },
     {
-        "english": "Details",
-        "french": "Détails"
-    },
-    {
-        "english": "Wheel",
-        "french": "Roue"
-    },
-    {
-        "english": "Tire:",
-        "french": "Pneumatique :"
-    },
-    {
-        "english": "Load:",
-        "french": "Charge :"
-    },
-    {
-        "english": "Pattern:",
-        "french": "Modèle :"
-    },
-    {
-        "english": "Wheel:",
-        "french": "Roue :"
-    },
-    {
-        "english": "Net Price:",
-        "french": "Prix net :"
-    },
-    {
-        "english": "GM Genuine Parts",
-        "french": "Pièces d'origine GM"
-    },
-    {
-        "english": "Net Quantity:",
-        "french": "Quantité nette :"
-    },
-    {
-        "english": "Color:",
-        "french": "Couleur :"
-    },
-    {
-        "english": "Tire Size:",
-        "french": "Tire Size:"
-    },
-    {
-        "english": "Details:",
-        "french": "Détails :"
-    },
-    {
-        "english": "Accessory:",
-        "french": "Accessoire :"
-    },
-    {
-        "english": "Size:",
-        "french": "Taille :"
-    },
-    {
-        "english": "CB:",
-        "french": "CB :"
-    },
-    {
-        "english": "Speed:",
-        "french": "Vitesse :"
-    },
-    {
-        "english": "Style:",
-        "french": "Style :"
-    },
-    {
-        "english": "QTY",
-        "french": "QTÉ"
-    },
-    {
-        "english": "Type Specific Details",
-        "french": "Détails spécifiques au type"
-    },
-    {
-        "english": "Offset:",
-        "french": "Décalage :"
-    },
-    {
         "english": "Please fill out all mandatory fields in red.",
         "french": "Veuillez remplir tous les champs obligatoires en rouge."
     },
     {
-        "english": "The selected qty. of TPMS is greater than the qty. earned. Update your TPMS\n                    selections to match the qty. of sensors earned.",
-        "french": "La quantité sélectionnée de TPMS est supérieure à la quantité gagnée. Mettez à jour vos sélections TPMS\n                    pour qu'elle corresponde à la quantité de capteurs gagnés."
-    },
-    {
-        "english": "Tyre Pressure",
-        "french": "Pression des pneus"
-    },
-    {
-        "english": "TPMS Order",
-        "french": "Commande TPMS"
-    },
-    {
-        "english": "Updated TPMS Assigned",
-        "french": "Mise à jour du système TPMS assigné"
-    },
-    {
-        "english": "Part #",
-        "french": "Pièce #"
-    },
-    {
-        "english": "Unable to update TPMS",
-        "french": "Impossible de mettre à jour le système TPMS"
+        "english": "The selected qty. of TPMS is greater than the qty. earned. Update your TPMS selections to match the qty. of sensors earned.",
+        "french": "La quantité sélectionnée de capteurs TPMS est supérieure à la quantité gagnée. Mettez à jour vos sélections TPMS pour qu'elles correspondent à la quantité de capteurs gagnés."
     },
     {
         "english": "Total number of TPMS selected must match the total number of TPMS earned.",
         "french": "Le nombre total de TPMS sélectionnés doit correspondre au nombre total de TPMS gagnés."
     },
     {
-        "english": "green",
-        "french": "vert"
-    },
-    {
-        "english": "darkgreen",
-        "french": "vert foncé"
-    },
-    {
-        "english": "& fieldset",
-        "french": "& champignon"
-    },
-    {
-        "english": "& legend",
-        "french": "& légende"
-    },
-    {
-        "english": "&:hover fieldset",
-        "french": "&:hover fieldset"
-    },
-    {
-        "english": "textfield",
-        "french": "champ de texte"
-    },
-    {
-        "english": "Before you can proceed, please upload a Price Book file. This is the first step to setting\n          up your programs and viewing tires, wheels, and other items.",
-        "french": "Avant de poursuivre, veuillez télécharger un fichier du livre des prix. Il s'agit de la première étape pour\n          de vos programmes et de visualiser les pneus, les roues et d'autres articles."
-    },
-    {
-        "english": "admin",
-        "french": "l'administration"
-    },
-    {
-        "english": "fixed",
-        "french": "fixe"
-    },
-    {
-        "english": "= start && formattedDate",
-        "french": "= start && formattedDate"
-    },
-    {
-        "english": "standard",
-        "french": "standard"
-    },
-    {
-        "english": "dark",
-        "french": "sombre"
-    },
-    {
-        "english": ") : type === 'Warning' ? (",
-        "french": ") : type === 'Avertissement' ? ("
-    },
-    {
-        "english": "clickaway",
-        "french": "cliquable"
-    },
-    {
-        "english": "SnackbarContentForwarded",
-        "french": "SnackbarContentForwarded"
-    },
-    {
-        "english": "IBM Plex Sans",
-        "french": "IBM Plex Sans"
-    },
-    {
-        "english": "controlled",
-        "french": "contrôlé"
+        "english": "Before you can proceed, please upload a Price Book file. This is the first step to setting up your programs and viewing tires, wheels, and other items.",
+        "french": "Avant de pouvoir continuer, veuillez télécharger un fichier du livre des prix. Il s'agit de la première étape pour configurer vos programmes et visualiser les pneus, les roues et d'autres articles."
     },
     {
         "english": "You are about to delete this item from your booking order list. Item and quantity will be cleared. You can always add it back using the “Add” button.",
@@ -2012,128 +1272,84 @@
         "french": "Enregistrement supprimé avec succès !"
     },
     {
-        "english": "notes",
-        "french": "notes"
-    },
-    {
-        "english": "Lost your password? Please enter your email address. You will receive a link to create a\n          new password via email.",
-        "french": "Vous avez perdu votre mot de passe ? Veuillez saisir votre adresse e-mail. Vous recevrez un lien pour créer un\n          nouveau mot de passe."
-    },
-    {
-        "english": "Remember your password?",
-        "french": "Vous vous souvenez de votre mot de passe ?"
-    },
-    {
-        "english": "Forgot password",
-        "french": "Mot de passe oublié"
-    },
-    {
-        "english": "Check your spam folder if you don't see it in the inbox.",
-        "french": "Vérifiez votre dossier spam si vous ne le voyez pas dans la boîte de réception."
-    },
-    {
-        "english": "guest",
-        "french": "invité"
-    },
-    {
-        "english": "form",
-        "french": "formulaire"
-    },
-    {
-        "english": "Password reset link sent. Check your spam folder if you don't see it in the inbox.",
-        "french": "Lien de réinitialisation du mot de passe envoyé. Vérifiez votre dossier spam si vous ne le voyez pas dans la boîte de réception."
-    },
-    {
-        "english": "t see it in the inbox.\",\n          ",
-        "french": "Je ne l'ai pas vu dans la boîte de réception\",\n          "
-    },
-    {
-        "english": "main",
-        "french": "principal"
+        "english": "Failed to send password reset link.",
+        "french": "Le lien de réinitialisation du mot de passe n'a pas été envoyé."
     },
     {
         "english": "Failed to send password reset link. Contact Admin",
         "french": "Le lien de réinitialisation du mot de passe n'a pas été envoyé. Contacter l'administrateur"
     },
     {
-        "english": "Failed to send password reset link.",
-        "french": "Le lien de réinitialisation du mot de passe n'a pas été envoyé."
+        "english": "Forgot password",
+        "french": "Mot de passe oublié"
     },
     {
-        "english": "xs",
-        "french": "xs"
+        "english": "Lost your password? Please enter your email address. You will receive a link to create a new password via email.",
+        "french": "Vous avez perdu votre mot de passe ? Veuillez saisir votre adresse électronique. Vous recevrez un lien pour créer un nouveau mot de passe par courrier électronique."
     },
     {
-        "english": "key",
-        "french": "clé"
+        "english": "Remember your password?",
+        "french": "Vous vous souvenez de votre mot de passe ?"
     },
     {
-        "english": "tabId",
-        "french": "tabId"
+        "english": "Password reset link sent. Check your spam folder if you don't see it in the inbox.",
+        "french": "Lien de réinitialisation du mot de passe envoyé. Vérifiez votre dossier spam si vous ne le voyez pas dans la boîte de réception."
     },
     {
-        "english": "user",
-        "french": "utilisateur"
+        "english": "Check your spam folder if you don't see it in the inbox.",
+        "french": "Vérifiez votre dossier spam si vous ne le voyez pas dans la boîte de réception."
     },
     {
         "english": "Login",
         "french": "Connexion"
     },
     {
-        "english": "Kit Id is required.",
-        "french": "Le kit Id est nécessaire."
-    },
-    {
-        "english": "Net $ *",
-        "french": "Net $ *"
-    },
-    {
-        "english": "Tire *",
-        "french": "Tire *"
+        "english": "Net Price is required.",
+        "french": "Le prix net est requis."
     },
     {
         "english": "Description *",
         "french": "Description *"
     },
     {
-        "english": "tire",
-        "french": "pneu"
-    },
-    {
-        "english": "Kit ID *",
-        "french": "Kit ID *"
-    },
-    {
-        "english": "Wheel *",
-        "french": "Roue *"
-    },
-    {
-        "english": "TPMS *",
-        "french": "TPMS *"
-    },
-    {
-        "english": "Net Price is required.",
-        "french": "Le prix net est requis."
+        "english": "Tire *",
+        "french": "Tire *"
     },
     {
         "english": "Alias *",
         "french": "Alias * Alias * Alias * Alias * Alias * Alias * Alias * Alias * Alias"
     },
     {
+        "english": "Net $ *",
+        "french": "Net $ *"
+    },
+    {
+        "english": "Kit Id is required.",
+        "french": "Le kit Id est nécessaire."
+    },
+    {
+        "english": "Kit ID *",
+        "french": "Kit ID *"
+    },
+    {
+        "english": "TPMS *",
+        "french": "TPMS *"
+    },
+    {
+        "english": "Wheel *",
+        "french": "Roue *"
+    },
+    {
         "english": "Package",
         "french": "Paquet"
     },
     {
-        "english": ": modalOpen &&",
-        "french": ": modalOpen &&"
-    },
-    {
-        "english": "rowsPerPage",
-        "french": "rangéesParPage"
-    },
-    {
         "english": "Rows per page",
         "french": "Rows per page"
+    },
+    {
+        "english": "Tire Pressure",
+        "french": "Tire Pressure"
     },
     {
         "english": "TPMS Earned:",
@@ -2144,76 +1360,56 @@
         "french": "Booking Net Sub Total :"
     },
     {
-        "english": "Tire Pressure",
-        "french": "Tire Pressure"
-    },
-    {
         "english": "Select",
         "french": "Sélectionner"
-    },
-    {
-        "english": "No records found",
-        "french": "Aucun enregistrement n'a été trouvé"
-    },
-    {
-        "english": "Footer",
-        "french": "Pied de page"
-    },
-    {
-        "english": "Cell",
-        "french": "Cellule"
     },
     {
         "english": "expand row",
         "french": "développer la ligne"
     },
     {
-        "english": "selectedPackage",
-        "french": "paquet sélectionné"
+        "english": "No records found",
+        "french": "Aucun enregistrement n'a été trouvé"
+    },
+    {
+        "english": "Cell",
+        "french": "Cellule"
     },
     {
         "english": "See Details",
         "french": "Voir les détails"
     },
     {
-        "english": "Filter",
-        "french": "Filtre"
+        "english": "Footer",
+        "french": "Pied de page"
     },
     {
-        "english": "toolTipText",
-        "french": "toolTipText"
+        "english": "Filter",
+        "french": "Filtre"
     },
     {
         "english": "Header",
         "french": "En-tête"
     },
     {
-        "english": "New Password",
-        "french": "Nouveau mot de passe"
-    },
-    {
-        "english": "Resend Reset Link",
-        "french": "Lien de réinitialisation"
-    },
-    {
-        "english": "Password reset successfully",
-        "french": "Réinitialisation du mot de passe réussie"
-    },
-    {
         "english": "Confirm New Password",
         "french": "Confirmer le nouveau mot de passe"
+    },
+    {
+        "english": "New Password",
+        "french": "Nouveau mot de passe"
     },
     {
         "english": "Or",
         "french": "Ou"
     },
     {
-        "english": "token",
-        "french": "jeton"
+        "english": "Password reset successfully",
+        "french": "Réinitialisation du mot de passe réussie"
     },
     {
-        "english": "Select at least one additional tire to add to your booking.",
-        "french": "Sélectionnez au moins un pneu supplémentaire à ajouter à votre réservation."
+        "english": "Resend Reset Link",
+        "french": "Lien de réinitialisation"
     },
     {
         "english": "Add Tires to List",
@@ -2224,16 +1420,16 @@
         "french": "Veuillez sélectionner au moins un pneu !"
     },
     {
-        "english": "Special Instructions or Delivery Notes",
-        "french": "Instructions spéciales ou notes de livraison"
+        "english": "Select at least one additional tire to add to your booking.",
+        "french": "Sélectionnez au moins un pneu supplémentaire à ajouter à votre réservation."
     },
     {
         "english": "Enter any custom notes here...",
         "french": "Saisissez ici des notes personnalisées..."
     },
     {
-        "english": "modalContent",
-        "french": "modalContent"
+        "english": "Special Instructions or Delivery Notes",
+        "french": "Instructions spéciales ou notes de livraison"
     },
     {
         "english": "OK",
@@ -2248,7 +1444,71 @@
         "french": "Impossible de télécharger le modèle. Contact Admin"
     },
     {
-        "english": "Download Template",
-        "french": "Télécharger le modèle"
+        "english": "Error in BroadcastChannel setup:",
+        "french": "Erreur dans la configuration du canal de diffusion :"
+    },
+    {
+        "english": "Failed to update assigned TPMS:",
+        "french": "Échec de la mise à jour du système TPMS attribué :"
+    },
+    {
+        "english": "Failed to update data",
+        "french": "Échec de la mise à jour des données"
+    },
+    {
+        "english": "Invalid item index:",
+        "french": "L'index de l'article n'est pas valide :"
+    },
+    {
+        "english": "No data returned",
+        "french": "Pas de données renvoyées"
+    },
+    {
+        "english": "Update failed:",
+        "french": "La mise à jour a échoué :"
+    },
+    {
+        "english": "Invalid columnId or item not found:",
+        "french": "ColumnId non valide ou élément non trouvé :"
+    },
+    {
+        "english": "Something went wrong",
+        "french": "Quelque chose n'a pas fonctionné"
+    },
+    {
+        "english": "Error updating OEM settings",
+        "french": "Erreur de mise à jour des paramètres OEM"
+    },
+    {
+        "english": "idle",
+        "french": "oisif"
+    },
+    {
+        "english": "decimal",
+        "french": "décimal"
+    },
+    {
+        "english": "day",
+        "french": "jour"
+    },
+    {
+        "english": "Booking closes in days ()",
+        "french": "Clôture des réservations dans les jours ()"
+    },
+    {
+        "english": "Booking closes today ()",
+        "french": "Les réservations se terminent aujourd'hui ()"
+    },
+    {
+        "english": "days",
+        "french": "jours"
+    },
+    {
+        "english": "Booking closes in ()",
+        "french": "Les réservations sont closes en ()"
+    },
+    {
+        "english": "EEEE MMMM d, yyyy",
+        "french": "EEEE MMMM d, yyyy"
     }
 ]
