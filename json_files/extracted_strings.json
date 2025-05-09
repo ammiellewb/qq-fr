@@ -1,0 +1,789 @@
+{
+    "qquote-next/src/components/Admin/PackagesUpload/PackagesUpload.jsx": [
+        "Upload List",
+        "start",
+        "react",
+        "order",
+        "Cancel",
+        "contained",
+        "Upload Packages List",
+        "Uploaded Successfully",
+        "length",
+        "Upload Partially Successful",
+        "Something went wrong! Contact Admin",
+        "Validation failed",
+        "Success",
+        "Error",
+        "filters "
+    ],
+    "qquote-next/src/components/Admin/PackagesUpload/MissingItemsModal.jsx": [
+        "Missing Items",
+        "Close",
+        "No missing items found.",
+        "Alias",
+        "Kit PN",
+        "Missing Items (Upload Partially Successful: Review missing items for details.)",
+        "md"
+    ],
+    "qquote-next/src/components/Admin/AdminNavbar/AdminNavbar.jsx": [
+        "auto",
+        "superadmin",
+        "QQBook",
+        "Admin Banner",
+        "use client",
+        "contain"
+    ],
+    "qquote-next/src/components/Admin/Sensors/Sensors.jsx": [
+        "The requested resource was not found.",
+        "Sensors",
+        "none",
+        "Download List",
+        "Downloading in Progress",
+        "ASC",
+        "Not able to download file. Contact admin"
+    ],
+    "qquote-next/src/components/Admin/Sensors/columns.js": [
+        "basic",
+        "Actions",
+        "Part Number"
+    ],
+    "qquote-next/src/components/Admin/Sensors/SensorsUpload/SensorsUpload.jsx": [
+        "Upload Sensors List"
+    ],
+    "qquote-next/src/components/Admin/Sensors/SensorsTable/SensorsTable.jsx": [
+        "SensorsTable"
+    ],
+    "qquote-next/src/components/Admin/Sensors/EditSensorButton/EditSensorButton.jsx": [
+        "initial",
+        "Edit Sensor",
+        "top"
+    ],
+    "qquote-next/src/components/Admin/Sensors/CreateEditSensorModal/CreateEditSensorModal.jsx": [
+        "Add Part Number",
+        "Add",
+        "left",
+        "filled",
+        "Update",
+        "* Required Field",
+        "Please fill out the required fields.",
+        "Edit Part Number",
+        "Created Sensor!",
+        "Updated Sensor!",
+        "caption"
+    ],
+    "qquote-next/src/components/Admin/Sensors/CreateSensorButton/CreateSensorButton.jsx": [
+        "Sensor"
+    ],
+    "qquote-next/src/components/Admin/AssignManufacturer/AssignManufacturer.jsx": [
+        "Manufacturers",
+        "Save",
+        "Assign Tire Manufacturer",
+        "true"
+    ],
+    "qquote-next/src/components/Admin/PackageTableActions/CopyButton/CopyButton.jsx": [
+        "Copy Record"
+    ],
+    "qquote-next/src/components/Admin/PackageTableActions/EditButton/EditButton.jsx": [
+        "Edit Package Details"
+    ],
+    "qquote-next/src/components/Admin/PackageTableActions/DeleteButton/DeleteButton.jsx": [
+        "Delete Record"
+    ],
+    "qquote-next/src/components/Admin/ChangeLog/UploadCostFile.jsx": [
+        "Unable to upload File",
+        "center",
+        "File Uploaded Successfully",
+        "Upload",
+        "file",
+        "Upload an Excel file:"
+    ],
+    "qquote-next/src/components/Admin/ChangeLog/ChangeLog.jsx": [
+        "flex",
+        "Download",
+        "Change Log:"
+    ],
+    "qquote-next/src/components/Admin/OEMSettings/TPMSBonus/TPMSBonus.jsx": [
+        "Activate TPMS Bonus",
+        "TPMS Bonus"
+    ],
+    "qquote-next/src/components/Admin/OEMSettings/BookingOffers/BookingOffers.jsx": [
+        "relative",
+        "pointer",
+        "&:hover",
+        "& figure",
+        "Booking Offers",
+        "capitalize"
+    ],
+    "qquote-next/src/components/Admin/OEMSettings/Images/ImagePreview/ImagePreview.jsx": [
+        "span",
+        "grey",
+        "Delete Image",
+        "Delete Logo",
+        "string"
+    ],
+    "qquote-next/src/components/Admin/OEMSettings/Images/ImageUpload/ImageUpload.jsx": [
+        "label",
+        "No file chosen",
+        "Choose File"
+    ],
+    "qquote-next/src/components/Admin/OEMSettings/OeTirePreferences/OeTirePreferences.jsx": [
+        "Select which OE Tire brands to include in all programs. You can also manage these per\n        program when creating a new one.",
+        "OE Tires"
+    ],
+    "qquote-next/src/components/Admin/OEMSettings/OeTirePreferences/AddPreferenceBrandModal/AddPreferenceBrandModal.jsx": [
+        "Brand Name",
+        "Add Brand Name",
+        "Enter brand name"
+    ],
+    "qquote-next/src/components/Admin/OEMSettings/OeTirePreferences/OETireButton/OETireButton.jsx": [
+        "OE Tire Brand"
+    ],
+    "qquote-next/src/components/Admin/OEMSettings/Notifications/Notifications.jsx": [
+        "Home Screen Message",
+        "Dealer Notification Messages",
+        "Display",
+        "Type Ribbon Message",
+        "Type Home Screen Message",
+        "Ribbon Message"
+    ],
+    "qquote-next/src/components/Admin/OEMs/columns.js": [
+        "OEM NAME (QQ)",
+        "Address",
+        "imageHtml",
+        "name",
+        "Logo",
+        "OEM NAME"
+    ],
+    "qquote-next/src/components/Admin/OEMs/OEMs.jsx": [
+        "Unable to fetch OEMs details!",
+        "OEs"
+    ],
+    "qquote-next/src/components/Admin/OEMs/CreateEditOEMModal/CreateEditOEMModal.jsx": [
+        "Upload Logo *",
+        "Edit OE",
+        "Add OE",
+        "Update OEM!",
+        "Logo is required",
+        "button",
+        "newLogo"
+    ],
+    "qquote-next/src/components/Admin/OEMs/CreateOEMButton/CreateOEMButton.jsx": [
+        "OE"
+    ],
+    "qquote-next/src/components/Admin/OEMs/EditOEMButton/EditOEMButton.jsx": [
+        "Edit OEM"
+    ],
+    "qquote-next/src/components/Admin/Programs/Programs.jsx": [
+        "Unable to fetch details!"
+    ],
+    "qquote-next/src/components/Admin/Programs/ProgramAccordion/ProgramAccordion.jsx": [
+        "primary",
+        "Export Reports",
+        "Closed",
+        "Live",
+        "Report not found. Contact Admin",
+        "gray",
+        "div",
+        "Draft"
+    ],
+    "qquote-next/src/components/Admin/Programs/ProgramTable/ProgramTable.jsx": [
+        "Dealer Name",
+        "Total %",
+        "Submission Status",
+        "Target met",
+        "Past $",
+        "Previous Booked",
+        "Booking not yet started",
+        "target",
+        "orange",
+        "Booking started, below target",
+        "DESC",
+        "TPMS Selected",
+        "TPMS Earned",
+        "Current $",
+        "red",
+        "Pkgs",
+        "Booked Current",
+        "Loose Total",
+        "Status",
+        "total"
+    ],
+    "qquote-next/src/components/Admin/Programs/ProgramTable/SubmissionStatus.jsx": [
+        "Submission status checkbox",
+        "Update failed",
+        "Something went wrong while updating.",
+        "Successfully updated submission status!",
+        "API error:"
+    ],
+    "qquote-next/src/components/Admin/Programs/CreateEditProgramBtn/CreateEditProgramBtn.jsx": [
+        "Edit Program",
+        "Create Program"
+    ],
+    "qquote-next/src/components/Admin/Programs/CreateEditProgramModal/CreateEditProgramModal.jsx": [
+        "Please fill out the required fields to Save.",
+        "Updated Successfully",
+        "Not able to delete. Please contact Admin.",
+        "Record deleted successully",
+        "errr",
+        "Save Draft",
+        "Launch",
+        "Create A New Program",
+        "Created Successfully",
+        "Not able Save details. Contact Admin",
+        "*Required Field",
+        "white",
+        "Delete Program"
+    ],
+    "qquote-next/src/components/Admin/Programs/CreateEditProgramModal/PriceBook/PriceBook.jsx": [
+        "NA",
+        "Last Updated:",
+        "normal",
+        "italic",
+        "you will be unable to change pricing once program\n        is live.",
+        "Warning:",
+        "– File Uploaded",
+        "bold",
+        "fwNormal",
+        "fwBold"
+    ],
+    "qquote-next/src/components/Admin/Programs/CreateEditProgramModal/DealerTargets/DealerTargets.jsx": [
+        "absolute",
+        "dealers"
+    ],
+    "qquote-next/src/components/Admin/Programs/CreateEditProgramModal/DealerTargets/DealerTable/DealerTable.jsx": [
+        "company",
+        "Dealer",
+        "New Target"
+    ],
+    "qquote-next/src/components/Admin/Programs/CreateEditProgramModal/PackagesAccessories/PackagesAccessories.jsx": [
+        "Only applies to winter programs.",
+        "Packages Last Updated:",
+        "Accessories Last Updated:"
+    ],
+    "qquote-next/src/components/Admin/Programs/CreateEditProgramModal/ProgramDetails/ProgramDetails.jsx": [
+        "Select what season this will be to allow for comparative analytics.",
+        "Program name is required.",
+        "off",
+        "Black Out Dates",
+        "Start Date *",
+        "Program Name*",
+        "Other",
+        "Start date is required.",
+        "End date is required.",
+        "Booking Type*",
+        "Black Out Dates Packages",
+        "End Date *",
+        "TPMS Bonus Date",
+        "If the program start date is in the future your program will be set to draft until it goes\n        live making changes easy.",
+        " to ",
+        "T",
+        "Spring",
+        "end",
+        "Select a date",
+        "Fall"
+    ],
+    "qquote-next/src/components/Admin/Programs/ProgramsListing/ProgramsListing.jsx": [
+        "textSecondary"
+    ],
+    "qquote-next/src/components/Admin/AdminUsers/AdminUsers.jsx": [
+        "Admin Users",
+        "columnsUsers(sort, setUsers, users?.dealerships), [sort, users]);\n\n  return (",
+        "Unable to fetch OE admins details!"
+    ],
+    "qquote-next/src/components/Admin/AdminUsers/columns.js": [
+        "Last Login",
+        "Role",
+        "Active",
+        "Full Name",
+        "Email"
+    ],
+    "qquote-next/src/components/Admin/AdminUsers/AddOEMAdminButton/AddOEMAdminButton.jsx": [
+        "Admin User"
+    ],
+    "qquote-next/src/components/Admin/AdminUsers/AddEditOEMAdminModal/AddEditOEMAdminModal.jsx": [
+        "Add Admin User",
+        "password",
+        "OE Manager",
+        "Regional Manager",
+        "Updated OE Admin User!",
+        "Edit Admin User",
+        "cpassword",
+        "outlined",
+        "Confirm Password",
+        "Passwords do not match",
+        " (  )",
+        "wrap",
+        "username"
+    ],
+    "qquote-next/src/components/Admin/DealerShips/DealerShips.jsx": [
+        "table"
+    ],
+    "qquote-next/src/components/Admin/DealerShips/EditDealership/EditDealership.jsx": [
+        "Dealer Group",
+        "Prince Edward Island",
+        "New Brunswick",
+        "Dealership Name (QQ)",
+        "dealerArea",
+        "confirmPassword",
+        "Successfullly updated!",
+        "phone",
+        "Saskatchewan",
+        "Main Contact Email",
+        "Alberta",
+        "Nova Scotia",
+        "Ontario",
+        "country",
+        "nowrap",
+        "hidden",
+        "dealerCustomerName",
+        "dealerName",
+        "Manitoba",
+        "Does this dealer need access to any other accounts to create and submit bookings?",
+        "The Dealership Email is required.",
+        "state",
+        "Password *",
+        "dealerGroup",
+        "The Dealer Area is required.",
+        "text",
+        "British Columbia",
+        "Canada",
+        "showPasswordFields",
+        "The Dealership Address is required.",
+        "object",
+        "Nunavut",
+        "Dealer Booking Tool Login Credentials",
+        "The dealership name is required.",
+        "The User Name is required.",
+        "This Dealer is also an active QQuote user. Link their accounts.",
+        "Newfoundland and Labrador",
+        "The User Email is required.",
+        "Area",
+        "Dealership Name (OEM)",
+        "toggle password visibility",
+        "selectedDealers",
+        "Dealer Code",
+        "dealerCode",
+        "If you change the Passsword it will override the existing password for the user.",
+        "selectedUser",
+        "The Dealer Code is required.",
+        "ellipsis",
+        "Northwest Territories",
+        "Confirm Password *",
+        "Yukon",
+        "The Dealership Phone is required.",
+        "qquoteUser",
+        "Show Password Fields",
+        "Quebec",
+        "Unable to update! Fill out the required fields",
+        "dealerEmail"
+    ],
+    "qquote-next/src/components/Admin/DealerShips/EditDealership/SearchEmail/SearchEmail.jsx": [
+        "No results",
+        "User Email"
+    ],
+    "qquote-next/src/components/Admin/DealerShips/EditDealership/DeleteDealership/DeleteDealership.jsx": [
+        "Delete Dealer?",
+        "Delete",
+        "Confirm Delete",
+        "Are you sure you want to delete this Dealer?"
+    ],
+    "qquote-next/src/components/Admin/DealerShips/EditDealership/DeleteUser/DeleteUser.jsx": [
+        "Delete User",
+        "Are you sure you want to delete this User?",
+        "Delete User?"
+    ],
+    "qquote-next/src/components/Admin/DealerShips/DealershipsTable/DealershipsTable.jsx": [
+        "Unable to fetch dealerships details!",
+        "Dealerships"
+    ],
+    "qquote-next/src/components/Admin/DealerShips/DealershipsTable/columns.js": [
+        "brand",
+        "Group",
+        "DIr Code",
+        "QQ",
+        "logoHTML",
+        "OEM",
+        "Addrress",
+        "Dealership Logo"
+    ],
+    "qquote-next/src/components/Admin/DealerShips/DealershipsTable/AddDealer/AddDealer.jsx": [
+        "edit"
+    ],
+    "qquote-next/src/components/Admin/DealerShips/DealershipsTable/AddDealer/AddDealerModal/AddDealerModal.jsx": [
+        "Add Dealership",
+        "Upload Logo",
+        "Dealership Name",
+        "dealershipName",
+        "Added Dealership!",
+        "Unable to add Dealership!"
+    ],
+    "qquote-next/src/components/Admin/DealerShips/DealershipsTable/ImportDealers/ImportDealers.jsx": [
+        "Import Dealers"
+    ],
+    "qquote-next/src/components/Admin/DealerShips/ImageUpload/ImageUpload.jsx": [
+        "Upload Placeholder"
+    ],
+    "qquote-next/src/components/Admin/InputFileUpload/InputFileUpload.jsx": [
+        "input",
+        "Upload Distributor List"
+    ],
+    "qquote-next/src/components/Dealer/TargetAcheivedAnimation/TargetAcheivedAnimation.jsx": [
+        "oval",
+        "px",
+        "circle",
+        "rectangle",
+        "stripe",
+        "square"
+    ],
+    "qquote-next/src/components/Dealer/DealerSearchBar/DealerSearchBar.jsx": [
+        "Booking Has Been Closed!",
+        "Select an available booking program and dealership above to get started.",
+        "search",
+        "disabled",
+        "Booking Submitted",
+        "Upload a Past Order",
+        "Global Search",
+        "submit"
+    ],
+    "qquote-next/src/components/Dealer/DealerSearchBar/SubmitButton/SubmitButton.jsx": [
+        "Once submitted, you will NOT be able to make changes.",
+        "Submit Booking?",
+        "Unable to save details!",
+        "Details Saved Successfully! Please fill out the empty fields",
+        "TPMS is underassigned. Assign remaining TPMS before submitting the booking.",
+        "Details Saved Successfully!",
+        "fulfilled",
+        "Submit Booking",
+        "TPMS has been overassigned. Reassign it before submitting the booking.",
+        "Warning"
+    ],
+    "qquote-next/src/components/Dealer/DealerSearchBar/DealerProgramSelectionBar/DealershpSelection/DealershpSelection.jsx": [
+        "Click To Select Dealership",
+        "th",
+        "Select Dealership",
+        "row",
+        "Dealership *",
+        "sticky table"
+    ],
+    "qquote-next/src/components/Dealer/DealerSearchBar/DealerProgramSelectionBar/ProgramSelection/ProgramSelection.jsx": [
+        "Select Booking Program",
+        "programName",
+        "Click To Load Program",
+        "Open",
+        "Booking Program *"
+    ],
+    "qquote-next/src/components/Dealer/DealerSearchBar/SaveBookingButton/SaveBookingButton.jsx": [
+        "You will still have the ability to make changes while program booking window is open.",
+        "Save Changes",
+        "Save Booking?"
+    ],
+    "qquote-next/src/components/Dealer/DealerSearchBar/OrderUpload/OrderUploadModal.jsx": [
+        "Upload Past Order",
+        "programId",
+        "Note: This will completely override previously added Tires!",
+        "Uploaded successfully with missing Items.",
+        "orderFile",
+        "dealerId",
+        "Error! Target not uploaded for this Dealership",
+        "targetId"
+    ],
+    "qquote-next/src/components/Dealer/DealerSearchBar/OrderUpload/MissingItemsModal.jsx": [
+        "Missing Items (Upload Successfully: Review missing items for details.)",
+        "Missing Info"
+    ],
+    "qquote-next/src/components/Dealer/DealerSearchBar/DownloadReportsButton/DownloadReportsButton.jsx": [
+        "Click to Download Order"
+    ],
+    "qquote-next/src/components/Dealer/DealerDropdown/DealerDropdown.jsx": [
+        "small",
+        "column",
+        "Login as Dealer",
+        "Escape",
+        "sticky",
+        "medium"
+    ],
+    "qquote-next/src/components/Dealer/DealerLandingPage/DealerLandingPage.jsx": [
+        "Flag",
+        "Landing Banner",
+        "Powered by",
+        "block"
+    ],
+    "qquote-next/src/components/Dealer/DealerNavbar/DealerNavbar.jsx": [
+        "Dealer Logo",
+        "Last saved:",
+        "Last Submitted:",
+        "state.dealerProgram.isProgramDatePast);\n  const closingDateFormatted = getClosingDateTime(\n    programData?.closingTime,\n    programData?.updatedTime,\n  );\n\n  return ("
+    ],
+    "qquote-next/src/components/Dealer/DealerNavbar/DropdownMenu/DropdownMenu.jsx": [
+        "bottom",
+        "right",
+        "Account",
+        "Logout",
+        "Reset Password",
+        "Sync Booker Data"
+    ],
+    "qquote-next/src/components/Dealer/DealerNavbar/DropdownMenu/SetDealerTarget/SetDealerTarget.jsx": [
+        "Program selection is required.",
+        "Program",
+        "Unable to update target!",
+        "Target updated successfully",
+        "Unable to update target. Contact Admin",
+        "Dealer Target",
+        "Set Dealer Target",
+        "number",
+        "Set Target"
+    ],
+    "qquote-next/src/components/Dealer/DealerNavbar/DropdownMenu/ResetPassword/ResetPassword.jsx": [
+        "Reset",
+        "Unable to update password!",
+        "Unable to update password. Contact Admin",
+        "Password updated successfully"
+    ],
+    "qquote-next/src/components/Dealer/DealerInfoBar/DealerInfoBar.jsx": [
+        "black",
+        "QTY Total Tires:",
+        "Net Total:",
+        "Target:",
+        "inherit"
+    ],
+    "qquote-next/src/components/Dealer/BookingProgram/BookingProgram.jsx": [
+        "Unable to fetch tires details!"
+    ],
+    "qquote-next/src/components/Dealer/BookingProgram/Tires/Tires.jsx": [
+        "smooth"
+    ],
+    "qquote-next/src/components/Dealer/BookingProgram/Tires/TiresTable/columns.js": [
+        "Cu $",
+        "Please select distributor you wish to order from.",
+        "Image",
+        "distributor",
+        "Identifier",
+        "Tire Size",
+        "Load",
+        "Delivery",
+        "option.id === distributorId);\n\n      return isProgramDatePast ? (\n        distributor ? (\n          distributor.label\n        ) : (\n          ''\n        )\n      ) : (",
+        "QTY Tires",
+        "Please enter number of TIRE UNITS you wish to order.",
+        "DIr $",
+        "cost",
+        "Please select the delivery date you wish to have the tires delivered.",
+        "Net $",
+        "quantity",
+        "Speed",
+        "tires",
+        "Manufacturer"
+    ],
+    "qquote-next/src/components/Dealer/BookingProgram/Tires/TiresTable/TiresTable.jsx": [
+        "Missing original index"
+    ],
+    "qquote-next/src/components/Dealer/BookingProgram/BookingAccordians/WheelsAccordian.jsx": [
+        "Add Wheels to include in your booking.",
+        "Wheels",
+        "Number Of Wheels:"
+    ],
+    "qquote-next/src/components/Dealer/BookingProgram/BookingAccordians/PackageAccordian.jsx": [
+        "Collapse",
+        "Add Package Sets to include in your booking.",
+        "Packages",
+        "default",
+        "Expand",
+        "Number Of Sets:"
+    ],
+    "qquote-next/src/components/Dealer/BookingProgram/BookingAccordians/TireAccordian.jsx": [
+        "Number Of Tires:",
+        "Add Tires to include in your booking."
+    ],
+    "qquote-next/src/components/Dealer/BookingProgram/Wheels/WheelsTable/columns.js": [
+        "Type",
+        "Pattern",
+        "Size",
+        "Color",
+        "CB",
+        "Offset",
+        "Style"
+    ],
+    "qquote-next/src/components/Dealer/BookingProgram/Wheels/AddWheelModal/AddWheelModal.jsx": [
+        "Unable to fetch wheels details!",
+        "Add Wheels to List",
+        "Select at least one additional wheel to add to your booking.",
+        "Please select atleast one wheel!"
+    ],
+    "qquote-next/src/components/Dealer/BookingProgram/Wheels/AddWheelModal/columns.js": [
+        "id",
+        "dimension"
+    ],
+    "qquote-next/src/components/Dealer/BookingProgram/Packages/AddPackageModal/AddPackageModal.jsx": [
+        "Roboto",
+        "Add Packages",
+        "Please select atleast one package!",
+        "Unable to fetch packages details!"
+    ],
+    "qquote-next/src/components/Dealer/BookingProgram/Packages/PackagesTable/columns.js": [
+        "Wheel",
+        "Details",
+        "Please enter number of PACKAGE SETS you wish to order.",
+        "description",
+        "QTY Sets",
+        "wheelImageHtml",
+        "Please select the delivery date you wish to have the set delivered."
+    ],
+    "qquote-next/src/components/Dealer/BookingProgram/Packages/PackagesTable/PackageDetails/PackageDetails.jsx": [
+        "Offset:",
+        "Pattern:",
+        "Net Price:",
+        "Type Specific Details",
+        "Color:",
+        "QTY",
+        "Style:",
+        "CB:",
+        "Net Quantity:",
+        "Load:",
+        "Details:",
+        "Tire Size:",
+        "Accessory:",
+        "Speed:",
+        "GM Genuine Parts",
+        "Tire:",
+        "Size:",
+        "Wheel:"
+    ],
+    "qquote-next/src/components/Dealer/BookingProgram/SaveBookingModal/SaveBookingModal.jsx": [
+        "Tyre Pressure",
+        "Please fill out all mandatory fields in red.",
+        "The selected qty. of TPMS is greater than the qty. earned. Update your TPMS\n                    selections to match the qty. of sensors earned."
+    ],
+    "qquote-next/src/components/Dealer/TPMSModal/TPMSModal.jsx": [
+        "Unable to update TPMS",
+        "Total number of TPMS selected must match the total number of TPMS earned.",
+        "TPMS Order",
+        "Part #",
+        "Updated TPMS Assigned"
+    ],
+    "qquote-next/src/components/Dealer/TPMSModal/QuantityField/QuantityField.jsx": [
+        "textfield",
+        "& fieldset",
+        "green",
+        "&:hover fieldset",
+        "& legend",
+        "darkgreen"
+    ],
+    "qquote-next/src/components/Dealer/Notifications/PriceBookNotification/PriceBookNotification.jsx": [
+        "admin",
+        "Before you can proceed, please upload a Price Book file. This is the first step to setting\n          up your programs and viewing tires, wheels, and other items."
+    ],
+    "qquote-next/src/components/common/CircularLoading/CircularLoading.jsx": [
+        "fixed"
+    ],
+    "qquote-next/src/components/common/ColumnInputs/ColumnInputs.jsx": [
+        "standard",
+        "= start && formattedDate"
+    ],
+    "qquote-next/src/components/common/NotifyToast/NotifyToast.jsx": [
+        "clickaway",
+        ") : type === 'Warning' ? (",
+        "dark",
+        "IBM Plex Sans",
+        "SnackbarContentForwarded"
+    ],
+    "qquote-next/src/components/common/CheckBoxInput/CheckBoxInput.jsx": [
+        "controlled"
+    ],
+    "qquote-next/src/components/common/TableActions/DeleteButton/DeleteButton.jsx": [
+        "Record deleted successfully!",
+        "You are about to delete this item from your booking order list. Item and quantity will be cleared. You can always add it back using the “Add” button."
+    ],
+    "qquote-next/src/components/common/TableActions/NotesButton/NotesButton.jsx": [
+        "notes"
+    ],
+    "qquote-next/src/components/common/ForgotPassword/ForgotPassword.jsx": [
+        "Forgot password",
+        "Failed to send password reset link.",
+        "main",
+        "Lost your password? Please enter your email address. You will receive a link to create a\n          new password via email.",
+        "xs",
+        "Password reset link sent. Check your spam folder if you don't see it in the inbox.",
+        "guest",
+        "Failed to send password reset link. Contact Admin",
+        "Check your spam folder if you don't see it in the inbox.",
+        "form",
+        "t see it in the inbox.\",\n          ",
+        "Remember your password?"
+    ],
+    "qquote-next/src/components/common/LoginPage/LoginPage.jsx": [
+        "tabId",
+        "key",
+        "user"
+    ],
+    "qquote-next/src/components/common/UserLoginButton/UserLoginButton.jsx": [
+        "Login"
+    ],
+    "qquote-next/src/components/common/CreateEditPackageModal/CreateEditPackageModal.jsx": [
+        "Kit ID *",
+        "Kit Id is required.",
+        "Wheel *",
+        "Description *",
+        "tire",
+        "Net Price is required.",
+        "Tire *",
+        "Alias *",
+        "TPMS *",
+        "Net $ *"
+    ],
+    "qquote-next/src/components/common/Table/TableFooter/TableFooter.jsx": [
+        "Package",
+        ": modalOpen &&"
+    ],
+    "qquote-next/src/components/common/Table/Pagination/Pagination.jsx": [
+        "rowsPerPage",
+        "Rows per page"
+    ],
+    "qquote-next/src/components/common/Table/TableTitle/TableTitle.jsx": [
+        "TPMS Earned:",
+        "Booking Net Sub Total:",
+        "Tire Pressure"
+    ],
+    "qquote-next/src/components/common/Table/TableTitle/TPMSButton/TPMSButton.jsx": [
+        "Select"
+    ],
+    "qquote-next/src/components/common/Table/TableBody/TableBody.jsx": [
+        "expand row",
+        "See Details",
+        "No records found",
+        "Cell",
+        "Footer",
+        "selectedPackage"
+    ],
+    "qquote-next/src/components/common/Table/TableHeader/TableHeader.jsx": [
+        "Header",
+        "Filter",
+        "toolTipText"
+    ],
+    "qquote-next/src/components/common/ResetPassword/ResetPassword.jsx": [
+        "Resend Reset Link",
+        "New Password",
+        "token",
+        "Confirm New Password",
+        "Password reset successfully",
+        "Or"
+    ],
+    "qquote-next/src/components/common/AddTireModal/AddTireModal.jsx": [
+        "Please select atleast one tire!",
+        "Select at least one additional tire to add to your booking.",
+        "Add Tires to List"
+    ],
+    "qquote-next/src/components/common/NotesModal/NotesModal.jsx": [
+        "Enter any custom notes here...",
+        "Special Instructions or Delivery Notes"
+    ],
+    "qquote-next/src/components/common/Modal/Modal.jsx": [
+        "modalContent"
+    ],
+    "qquote-next/src/components/common/ConfirmationModal/ConfirmationModal.jsx": [
+        "OK",
+        "Delete?"
+    ],
+    "qquote-next/src/components/common/UploadFile/UploadFile.jsx": [
+        "Not able to download Template. Contact Admin",
+        "Download Template"
+    ]
+}
