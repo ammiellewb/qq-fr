@@ -7,7 +7,8 @@ import os
 from dotenv import load_dotenv
 
 # Load environment variables from .env file if it exists
-load_dotenv('translation-pipeline/.gitignore/.env')
+dotenv_path = os.path.join(os.path.dirname(__file__), '.gitignore/.env')
+load_dotenv(dotenv_path)
 
 # OpenAI API configuration
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
